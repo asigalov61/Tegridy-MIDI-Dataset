@@ -1,5 +1,4 @@
 # Tegridy-MIDI-Dataset
-A Tegridy MIDI Dataset for precise and effective Music AI models creation.
 
 Highest Quality Multi-Instrumental Dataset for effective, quick, and precise Music AI model training.
 
