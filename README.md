@@ -7,3 +7,5 @@ Description is coming soon and the dataset is also going to be improved and upda
 Please CC BY-NC-SA.
 
 Tegridy Code 2020
+
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=asigalov61&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
