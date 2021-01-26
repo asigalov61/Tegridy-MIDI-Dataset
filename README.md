@@ -8,6 +8,8 @@
 
 ### Over 230000 Original MIDIs + processed ones for MIR/research/statistical analysis.
 
+### Download at the link below or with a handy [wget bash script](https://github.com/asigalov61/Tegridy-MIDI-Dataset/blob/master/WORLD_MIDIs_Datasets.sh)
+
 ### You can explore these datasets with [World MIDIs Explorer](https://github.com/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/WORLD_MIDIs_Explorer.ipynb)
 
 ***
