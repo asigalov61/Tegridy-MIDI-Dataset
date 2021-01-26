@@ -4,7 +4,11 @@
 
 ***
 
-### Description is coming soon and the dataset is also going to be improved and updated soon.
+### [NEW] WORLD MIDIs Datasets: https://1drv.ms/u/s!Ao9gnMkvUA2KgZARLNjGnPmM7FUPug?e=Lc3Elv
+### Original MIDIs + processed ones for MIR/research/statistical analysis.
+### You can explore these datasets with [World MIDIs Explorer](https://github.com/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/WORLD_MIDIs_Explorer.ipynb)
+
+***
 
 ### Please CC BY-NC-SA.
 
