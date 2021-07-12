@@ -1,6 +1,6 @@
 World MuseNet MIDI Dataset
 
-Presented are three subsets: Western, European, and Mid-Eastern Trios.
+Presented are three subsets: Western, European, and Mid-Eastern.
 
 Fully MuseNet compatible with standard 8 MuseNet instruments channels + drums
 
