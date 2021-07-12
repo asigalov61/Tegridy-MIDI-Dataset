@@ -1,17 +1,20 @@
-World MuseNet MIDI Dataset
+# World MuseNet MIDI Dataset
 
-Presented are three subsets: Western, European, and Mid-Eastern.
+***
 
-Fully MuseNet compatible with standard 9 MuseNet instruments channels + drums
+## Presented are three subsets: Western, European, and Mid-Eastern.
 
-Piano-Guitar-Bass-Violin-Cello-Harp-Trumpet-Clarinet-Flute-Drums
+## Fully MuseNet compatible with standard 9 MuseNet instruments channels + drums
 
-All MIDIs were converted to 500ms/quarter-note normalized perfect timings to make it most compatible for multi-instrumental Music AI purposes.
+## Piano-Guitar-Bass-Violin-Cello-Harp-Trumpet-Clarinet-Flute-Drums
 
-Please note that some files may be unusable/have excessive gaps between composition parts. This will be corrected in future versions if it will be possible.
+## All MIDIs were converted to 500ms/quarter-note normalized perfect timings to make it most compatible for multi-instrumental Music AI purposes.
 
-Enjoy! :)
+## Please note that some files may be unusable/have excessive gaps between composition parts. This will be corrected in future versions if it will be possible.
 
-Project Los Angeles
+## Enjoy! :)
 
-Tegridy Code 2021
+***
+
+#### Project Los Angeles
+#### Tegridy Code 2021
