@@ -2,7 +2,7 @@ World MuseNet MIDI Dataset
 
 Presented are three subsets: Western, European, and Mid-Eastern.
 
-Fully MuseNet compatible with standard 8 MuseNet instruments channels + drums
+Fully MuseNet compatible with standard 9 MuseNet instruments channels + drums
 
 Piano-Guitar-Bass-Violin-Cello-Harp-Trumpet-Clarinet-Flute-Drums
 
