@@ -1,4 +1,4 @@
-# Tegridy-MIDI-Dataset
+# Tegridy MIDI Dataset
 
 ## Ultimate Multi-Instrumental MIDI Dataset for Music AI purposes
 
