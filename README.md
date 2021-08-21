@@ -1,6 +1,6 @@
 # Tegridy-MIDI-Dataset
 
-## High Quality MIDI Multi-Instrumental Dataset with Dynamics for effective, quick, and precise Music AI model training.
+## Ultimate Multi-Instrumental MIDI Dataset for Music AI purposes
 
 ***
 
@@ -8,7 +8,13 @@
 
 ### git clone https://github.com/asigalov61/Tegridy-MIDI-Dataset
 
-### You can explore datasets with [World MIDIs Explorer](https://github.com/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/WORLD_MIDIs_Explorer.ipynb)
+***
+
+### Other must-have datasets:
+
+### GiantMIDI Dataset https://github.com/bytedance/GiantMIDI-Piano
+### POP909 Dataset https://github.com/music-x-lab/POP909-Dataset
+### AIlabs.tw Pop17K Dataset https://github.com/YatingMusic/compound-word-transformer
 
 ***
 
