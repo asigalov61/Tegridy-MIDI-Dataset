@@ -4,6 +4,18 @@
 
 ***
 
+The Ultimate Piano MIDI file for Music AI and MIR purposes
+
+Contemporary/Modern Classical Piano Music
+
+NO MORE BORING BACH !!!
+
+Created with OpenAI's MuseNet and processed to fit Music AI and MIR purposes
+
+Enjoy!
+
+***
+
 # Raw Stats
 
 
