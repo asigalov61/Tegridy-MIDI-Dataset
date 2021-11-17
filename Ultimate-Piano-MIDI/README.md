@@ -1,5 +1,7 @@
 # Ultimate Piano MIDI
 
+## ~40 hours of Contemporary/Modern Classical Music for Music AI and MIR Purposes
+
 ## Please CC-BY-NC-SA
 
 ***
