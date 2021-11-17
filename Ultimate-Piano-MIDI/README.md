@@ -18,6 +18,7 @@
 6) Advanced Expressive Simulated Velociry
 7) Pre-sorted pitches (H -> L)
 8) Sane size to fit home/consumer-level Music AI models creation
+9) All sub-styles and all sub-genres covered!
 
 ***
 
