@@ -6,13 +6,17 @@
 
 # Raw Stats
 
-{'bank_select': [],
- 'channels_by_track': [set(), {0}],
+
  'channels_total': {0},
+ 
  'general_midi_mode': [],
+ 
  'ntracks': 2,
+ 
  'nticks': 144685560,
+ 
  'num_notes_by_channel': {0: 2035929},
+ 
  'patch_changes_by_track': [{},
   {0: 0,
    1: 24,
@@ -30,8 +34,11 @@
    13: 0,
    14: 0,
    15: 0}],
+   
  'patch_changes_total': {0, 24, 32, 40, 42, 46, 56, 71, 73},
+ 
  'percussion': {},
+ 
  'pitches': {65: 69633,
   60: 71863,
   56: 43342,
@@ -147,8 +154,11 @@
   0: 4,
   115: 2,
   1: 27},
+  
  'pitch_range_by_track': [(0, 0), (0, 119)],
+ 
  'pitch_range_sum': 119,
+ 
  'ticks_per_quarter': 500}
  
 ***
