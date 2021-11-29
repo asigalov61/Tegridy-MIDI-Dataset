@@ -2,6 +2,10 @@
 
 ***
 
+## Please CC BY-NC-SA
+
+***
+
 ### License/Attribution
 
 #### The Lakh MIDI Dataset is distributed with a CC-BY 4.0 license; if you use this data in any capacity, please reference this page and my thesis:
