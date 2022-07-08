@@ -16,6 +16,7 @@
 ### LAKH MuseNet MIDI Dataset https://github.com/asigalov61/LAKH-MuseNet-MIDI-Dataset
 ### LAKH MIDI Dataset https://colinraffel.com/projects/lmd/
 ### GiantMIDI Dataset https://github.com/bytedance/GiantMIDI-Piano
+### Rock-Piano MIDI Dataset https://github.com/asigalov61/Rock-Piano-MIDI-Dataset
 ### POP909 Dataset https://github.com/music-x-lab/POP909-Dataset
 ### POP17k Dataset https://github.com/YatingMusic/compound-word-transformer
 ### Nottingham Dataset https://github.com/jukedeck/nottingham-dataset
