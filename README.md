@@ -17,6 +17,7 @@
 ### LAKH MIDI Dataset https://colinraffel.com/projects/lmd/
 ### GiantMIDI Dataset https://github.com/bytedance/GiantMIDI-Piano
 ### Rock-Piano MIDI Dataset https://github.com/asigalov61/Rock-Piano-MIDI-Dataset
+### MAESTRO Dataset https://magenta.tensorflow.org/datasets/maestro
 ### adl-piano Dataset https://github.com/lucasnfe/adl-piano-midi
 ### POP909 Dataset https://github.com/music-x-lab/POP909-Dataset
 ### POP1k7 Dataset https://github.com/YatingMusic/compound-word-transformer
