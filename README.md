@@ -12,11 +12,11 @@
 
 ### Other must-have datasets:
 
-### [NEW][SOTA] Los Angeles MIDI Dataset https://github.com/asigalov61/Los-Angeles-MIDI-Dataset
-
+### Los Angeles MIDI Dataset https://github.com/asigalov61/Los-Angeles-MIDI-Dataset
 ### Meta MIDI Dataset https://github.com/jeffreyjohnens/MetaMIDIDataset
 ### LAKH MuseNet MIDI Dataset https://github.com/asigalov61/LAKH-MuseNet-MIDI-Dataset
 ### LAKH MIDI Dataset https://colinraffel.com/projects/lmd/
+### ATEPP Solo Piano MIDI Dataset https://github.com/BetsyTang/ATEPP
 ### GiantMIDI Dataset https://github.com/bytedance/GiantMIDI-Piano
 ### Rock-Piano MIDI Dataset https://github.com/asigalov61/Rock-Piano-MIDI-Dataset
 ### MAESTRO Dataset https://magenta.tensorflow.org/datasets/maestro
