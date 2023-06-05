@@ -10,7 +10,7 @@
 
 ***
 
-### Other must-have datasets:
+### Other must-have MIDI datasets:
 
 ### Los Angeles MIDI Dataset https://github.com/asigalov61/Los-Angeles-MIDI-Dataset
 ### Meta MIDI Dataset https://github.com/jeffreyjohnens/MetaMIDIDataset
@@ -29,7 +29,7 @@
 
 ***
 
-### Please CC BY-NC-SA.
+### Please CC BY-NC-SA
 
 ***
 
@@ -44,14 +44,7 @@
 #### 3) Sound Font 2 Banks to render MIDIs
 #### https://sites.google.com/site/soundfonts4u/
 
-#### Mirror copy of these packages is located here:
-#### https://onedrive.live.com/?authkey=%21ALc%2DMbE8ogmuExg&id=8A0D502FC99C608F%2118424&cid=8A0D502FC99C608F
-
 ***
 
 #### Project Los Angeles
-#### Tegridy Code 2021
-
-***
-
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=asigalov61&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#### Tegridy Code 2023
