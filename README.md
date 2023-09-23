@@ -2,11 +2,15 @@
 
 ## Ultimate Multi-Instrumental MIDI Dataset for Music AI purposes
 
+### Please CC BY-NC-SA
+
 ***
 
 ### Install:
 
-### git clone https://github.com/asigalov61/Tegridy-MIDI-Dataset
+```
+git clone https://github.com/asigalov61/Tegridy-MIDI-Dataset
+```
 
 ***
 
@@ -14,7 +18,6 @@
 
 ### Los Angeles MIDI Dataset https://github.com/asigalov61/Los-Angeles-MIDI-Dataset
 ### Meta MIDI Dataset https://github.com/jeffreyjohnens/MetaMIDIDataset
-### LAKH MuseNet MIDI Dataset https://github.com/asigalov61/LAKH-MuseNet-MIDI-Dataset
 ### LAKH MIDI Dataset https://colinraffel.com/projects/lmd/
 ### ATEPP Solo Piano MIDI Dataset https://github.com/BetsyTang/ATEPP
 ### GiantMIDI Dataset https://github.com/bytedance/GiantMIDI-Piano
@@ -26,10 +29,6 @@
 ### Nottingham Dataset https://github.com/jukedeck/nottingham-dataset
 ### ASAP Dataset https://github.com/fosfrancesco/asap-dataset
 ### lead-sheet Dataset https://github.com/wayne391/lead-sheet-dataset
-
-***
-
-### Please CC BY-NC-SA
 
 ***
 
