@@ -45,5 +45,13 @@ git clone https://github.com/asigalov61/Tegridy-MIDI-Dataset
 
 ***
 
+## Audio to MIDI transcription
+
+### 1) [Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription by Google](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)
+
+### 2) [Solo Piano with Pedals Audio-to-MIDI Transcription by ByteDance](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)
+
+***
+
 #### Project Los Angeles
 #### Tegridy Code 2023
