@@ -2,7 +2,7 @@
 
 ***
 
-## This dataset contains approximately 7821 MIDIs from three MIDI datasets
+## This dataset contains approximately 7823 MIDIs from three MIDI datasets
 ### 1) Tegridy Piano Violin MIDI Dataset
 ### 2) POP909 Piano Violin MIDI Dataset
 ### 3) Tegridy Mono-Melodies MIDI Dataset
