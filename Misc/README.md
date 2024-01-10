@@ -28,5 +28,12 @@
 
 ***
 
+## 5) English Karaoke Melodies
+
+### ~5.8k processed English karaoke melodies
+### Format: ['word', 'delta_start_time(1000/16)', 'duration(1000/16)', 'midi_pitch']
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2024
