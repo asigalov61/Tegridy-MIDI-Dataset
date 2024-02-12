@@ -9,7 +9,7 @@
 ## Install:
 
 ```
-git clone https://github.com/asigalov61/Tegridy-MIDI-Dataset
+git clone --depth 1 https://github.com/asigalov61/Tegridy-MIDI-Dataset
 ```
 
 ***
@@ -54,4 +54,4 @@ git clone https://github.com/asigalov61/Tegridy-MIDI-Dataset
 ***
 
 #### Project Los Angeles
-#### Tegridy Code 2023
+#### Tegridy Code 2024
