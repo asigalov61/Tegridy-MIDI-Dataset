@@ -36,13 +36,13 @@
 ## Must-have software:
 
 ### 1) The one and only MIDI Editor - its awesome :)
-#### [midieditor](https://github.com/markusschwenk/midieditor)
+### [midieditor](https://github.com/markusschwenk/midieditor)
 
 ### 2) OMNI MIDI Synthesizer and SF2 Driver
-#### [OminMIDI](https://github.com/KeppySoftware/OmniMIDI)
+### [OminMIDI](https://github.com/KeppySoftware/OmniMIDI)
 
 ### 3) Sound Font 2 Banks to render MIDIs
-#### [soundfonts4u](https://sites.google.com/site/soundfonts4u/)
+### [soundfonts4u](https://sites.google.com/site/soundfonts4u/)
 
 ***
 
@@ -54,5 +54,5 @@
 
 ***
 
-#### Project Los Angeles
-#### Tegridy Code 2024
+### Project Los Angeles
+### Tegridy Code 2024
