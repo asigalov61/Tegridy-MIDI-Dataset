@@ -1,6 +1,6 @@
 # Tegridy MIDI Dataset
 
-## Ultimate Multi-Instrumental MIDI Dataset for Music AI purposes
+## Ultimate Multi-Instrumental MIDI Dataset for MIR and Music AI purposes
 
 ### Please CC BY-NC-SA
 
