@@ -38,8 +38,8 @@
 ## The one and only open-source MIDI editor! Its awesome :)
 ## [midieditor](https://github.com/markusschwenk/midieditor)
 
-## OMNI MIDI synthesizer and SF2 driver
-## [OminMIDI](https://github.com/KeppySoftware/OmniMIDI)
+## OmniMIDI synthesizer and SF2 driver
+## [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
 
 ## Sound Font 2 banks to render MIDIs
 ## [soundfonts4u](https://sites.google.com/site/soundfonts4u/)
@@ -48,9 +48,9 @@
 
 # Audio to MIDI transcription
 
-## [Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription by Google](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)
-
 ## [Solo Piano with Pedals Audio-to-MIDI Transcription by ByteDance](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)
+
+## [Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription by Google](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)
 
 ***
 
