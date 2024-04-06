@@ -48,17 +48,17 @@
 
 # Audio to MIDI transcription
 
-## [Colab] [Solo Piano with Pedals Audio-to-MIDI Transcription by ByteDance](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)
+## [Colab] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)
 
-## [Online] [Solo Piano with Pedals Audio-to-MIDI Transcription by ByteDance](https://huggingface.co/spaces/asigalov61/ByteDance-Solo-Piano-Audio-to-MIDI-Transcription)
+## [Online] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://huggingface.co/spaces/asigalov61/ByteDance-Solo-Piano-Audio-to-MIDI-Transcription)
 
-## [Colab] [Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription by Google](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)
+## [Colab] [Google Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)
 
 ***
 
 # MIDI rendering
 
-## [Online] [Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
+## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
 
 ***
 
