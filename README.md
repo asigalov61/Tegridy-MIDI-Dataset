@@ -31,6 +31,7 @@
 ## [ASAP Dataset](https://github.com/fosfrancesco/asap-dataset)
 ## [lead-sheet Dataset](https://github.com/wayne391/lead-sheet-dataset)
 ## [EMOPIA Dataset](https://github.com/annahung31/EMOPIA)
+## [chords-melody Dataset](https://github.com/shiehn/chord-melody-dataset)
 
 ***
 
