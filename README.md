@@ -30,6 +30,7 @@
 ## [Nottingham Dataset](https://github.com/jukedeck/nottingham-dataset)
 ## [ASAP Dataset](https://github.com/fosfrancesco/asap-dataset)
 ## [lead-sheet Dataset](https://github.com/wayne391/lead-sheet-dataset)
+## [EMOPIA Dataset](https://github.com/annahung31/EMOPIA)
 
 ***
 
@@ -59,6 +60,13 @@
 # MIDI rendering
 
 ## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
+
+***
+
+# Miscellaneous MIDI applications
+
+## [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
+## [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
 
 ***
 
