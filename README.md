@@ -32,6 +32,8 @@
 ## [lead-sheet Dataset](https://github.com/wayne391/lead-sheet-dataset)
 ## [EMOPIA Dataset](https://github.com/annahung31/EMOPIA)
 ## [chords-melody Dataset](https://github.com/shiehn/chord-melody-dataset)
+## [Groove Dataset](https://magenta.tensorflow.org/datasets/groove)
+## [Expanded Groove Dataset](https://magenta.tensorflow.org/datasets/e-gmd)
 
 ***
 
