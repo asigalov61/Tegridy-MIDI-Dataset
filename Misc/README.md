@@ -31,7 +31,25 @@
 ## 5) English Karaoke Melodies
 
 ### ~5.8k processed English karaoke melodies
-### Format: ['word', 'delta_start_time(1000/16)', 'duration(1000/16)', 'midi_pitch']
+### Format: ['word', 'delta_start_time(4096ms/256)', 'duration(4096ms/256)', 'midi_pitch(1-127)']
+
+***
+
+## 6) POP909 Piano Mono Violin MIDI Dataset
+
+### Same as POP909 Piano Violin MIDI Dataset above but with monophonic Violin melody in each MIDI
+
+***
+
+## 7) chords-melody MIDI Dataset
+
+### [chords-melody dataset](https://github.com/shiehn/chord-melody-dataset) converted from Music XML to MIDIs
+
+***
+
+## 8) lead-sheets MIDI Dataset mirror archive copy
+
+### [lead-sheets dataset](https://github.com/wayne391/lead-sheet-dataset) original mirror archive copy since the Google Drive link at the original repo does not seem to be working anymore
 
 ***
 
