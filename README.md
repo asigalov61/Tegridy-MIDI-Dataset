@@ -65,8 +65,8 @@
 
 # Miscellaneous MIDI applications
 
-## [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
-## [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
+## [Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
+## [Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
 
 ***
 
