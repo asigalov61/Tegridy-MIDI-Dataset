@@ -35,6 +35,7 @@
 ## [Groove Dataset](https://magenta.tensorflow.org/datasets/groove)
 ## [Expanded Groove Dataset](https://magenta.tensorflow.org/datasets/e-gmd)
 ## [Music Text Alignment Dataset](https://github.com/shtdbb/MusicTextAlignment)
+## [MidiCaps](https://github.com/AMAAI-Lab/MidiCaps)
 ## [mono-midi-transposition Dataset](https://github.com/sebasgverde/mono-midi-transposition-dataset)
 
 ***
@@ -65,6 +66,12 @@
 # MIDI rendering
 
 ## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
+
+***
+
+# MIDI search
+
+## [Online] [Los Angeles MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/Los-Angeles-MIDI-Dataset-Search)
 
 ***
 
