@@ -34,6 +34,7 @@
 ## [chords-melody Dataset](https://github.com/shiehn/chord-melody-dataset)
 ## [Groove Dataset](https://magenta.tensorflow.org/datasets/groove)
 ## [Expanded Groove Dataset](https://magenta.tensorflow.org/datasets/e-gmd)
+## [Annotated MIDI Dataset](https://huggingface.co/datasets/asigalov61/Annotated-MIDI-Dataset)
 ## [Music Text Alignment Dataset](https://github.com/shtdbb/MusicTextAlignment)
 ## [MidiCaps](https://github.com/AMAAI-Lab/MidiCaps)
 ## [mono-midi-transposition Dataset](https://github.com/sebasgverde/mono-midi-transposition-dataset)
