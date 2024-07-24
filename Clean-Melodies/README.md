@@ -1,6 +1,8 @@
 # Clean Melodies
 ## 117659 processed monophonic melodies for MIR and Music AI purposes
 
+## Please CC BY-NC-SA
+
 ***
 
 ## Decode with tegridy-tools TMIDIX Python module like so:
@@ -47,10 +49,6 @@ detailed_stats = TMIDIX.Tegridy_ms_SONG_to_MIDI_Converter(song_f,
                                                           track_name='Project Los Angeles'
                                                           )
 ```
-
-***
-
-## Please CC BY-NC-SA
 
 ***
 
