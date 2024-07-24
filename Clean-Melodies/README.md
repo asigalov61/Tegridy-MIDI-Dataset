@@ -5,7 +5,14 @@
 
 ***
 
-## Decode with tegridy-tools TMIDIX Python module like so:
+## There are two pickle files in the archive:
+
+* clean_melodies.pickle is a main pickle file which contains all meldoies, along with their pitches and delta pitches
+* clean_melodies_select_grouped.pickle is a subset of the main file above which contains 5158 select and grouped melodies
+
+***
+
+## Easily decode to MIDI with tegridy-tools TMIDIX Python module like so:
 
 ```
 !git clone --depth 1 https://github.com/asigalov61/tegridy-tools 
