@@ -8,7 +8,7 @@
 ## There are two pickle files in the archive:
 
 * clean_melodies.pickle is a main pickle file which contains all meldoies, along with their pitches and delta pitches
-* clean_melodies_select_grouped.pickle is a subset of the main file above which contains 5158 select and grouped melodies
+* clean_melodies_select_grouped.pickle is a subset of the main file above and it contains 5158 melodies selected and grouped by similarity and trimmed to an exact music phrases
 
 ***
 
