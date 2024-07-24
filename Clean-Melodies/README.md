@@ -48,5 +48,11 @@ detailed_stats = TMIDIX.Tegridy_ms_SONG_to_MIDI_Converter(song_f,
                                                           )
 ```
 
+***
+
+Please CC BY-NC-SA
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2024
