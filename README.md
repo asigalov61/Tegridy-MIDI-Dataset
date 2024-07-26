@@ -74,6 +74,7 @@
 # MIDI search
 
 ## [Online] [Los Angeles MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/Los-Angeles-MIDI-Dataset-Search)
+## [Online] [Advanced MIDI Search](https://huggingface.co/spaces/asigalov61/MIDI-Search)
 
 ***
 
