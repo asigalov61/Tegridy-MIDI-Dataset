@@ -36,8 +36,10 @@
 ## [Expanded Groove Dataset](https://magenta.tensorflow.org/datasets/e-gmd)
 ## [Annotated MIDI Dataset](https://huggingface.co/datasets/asigalov61/Annotated-MIDI-Dataset)
 ## [Music Text Alignment Dataset](https://github.com/shtdbb/MusicTextAlignment)
-## [MidiCaps](https://github.com/AMAAI-Lab/MidiCaps)
+## [MidiCaps Dataset](https://github.com/AMAAI-Lab/MidiCaps)
 ## [mono-midi-transposition Dataset](https://github.com/sebasgverde/mono-midi-transposition-dataset)
+## [ComMU Dataset](https://github.com/POZAlabs/ComMU-code)
+## [MID-FiLD](https://github.com/POZAlabs/MID-FiLD_code)
 
 ***
 
@@ -75,6 +77,19 @@
 
 ## [Online] [Los Angeles MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/Los-Angeles-MIDI-Dataset-Search)
 ## [Online] [Advanced MIDI Search](https://huggingface.co/spaces/asigalov61/MIDI-Search)
+
+***
+
+# MIDI classification
+
+## [Online] [Ultimate MIDI Classifier](https://huggingface.co/spaces/asigalov61/Ultimate-MIDI-Classifier)
+## [Online] [Advanced MIDI Classifier](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Classifier)
+
+***
+
+# MIDI Comparison
+
+## [Online] [Intelligent MIDI Comparator](https://huggingface.co/spaces/asigalov61/Intelligent-MIDI-Comparator)
 
 ***
 
