@@ -3,6 +3,15 @@
 
 ***
 
+## Notes:
+
+* Lead mono melodies are within 24-64 notes count range
+* Phrases were algorithmically extracted so there may be some inconsistencies
+* Each pickle file entry has format: [original MIDI md5 hash, mono melody patch number, delta score]
+* Source MIDI dataset: [Monster MIDI Dataset](https://github.com/asigalov61/Monster-MIDI-Dataset)
+
+***
+
 ## Easily decode to MIDI with TMIDIX Python module from tegridy-tools
 
 ```
