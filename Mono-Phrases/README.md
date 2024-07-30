@@ -48,7 +48,7 @@ output_score, patches, overflow_patches = TMIDIX.patch_enhanced_score_notes(abs_
 
 detailed_stats = TMIDIX.Tegridy_ms_SONG_to_MIDI_Converter(abs_score,
                                                           output_signature = song[0],
-                                                          output_file_name = '/content/Mono-Phrases-Composition',
+                                                          output_file_name = 'Mono-Phrases-Composition',
                                                           track_name='Project Los Angeles',
                                                           list_of_MIDI_patches=patches,
                                                           timings_multiplier=16,
