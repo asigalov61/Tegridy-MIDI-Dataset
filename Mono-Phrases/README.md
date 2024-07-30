@@ -51,7 +51,7 @@ detailed_stats = TMIDIX.Tegridy_ms_SONG_to_MIDI_Converter(abs_score,
                                                           output_file_name = 'Mono-Phrases-Composition',
                                                           track_name='Project Los Angeles',
                                                           list_of_MIDI_patches=patches,
-                                                          timings_multiplier=16,
+                                                          timings_multiplier=16
                                                           )
 print('=' * 70)
 ```
