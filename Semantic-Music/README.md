@@ -79,7 +79,7 @@ print('=' * 70)
 ## Attribution
 
 ### [lyrics dataset](https://huggingface.co/datasets/tsterbak/lyrics-dataset)
-### [song_lyrics](https://huggingface.co/datasets/amishshah/song_lyrics)
+### [song lyrics](https://huggingface.co/datasets/amishshah/song_lyrics)
 ### [POP909 MIDI dataset](https://github.com/music-x-lab/POP909-Dataset)
 ### [ASAP MIDI dataset](https://github.com/fosfrancesco/asap-dataset)
 ### [370k English words corpus](https://www.kaggle.com/datasets/ruchi798/part-of-speech-tagging/)
