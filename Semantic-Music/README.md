@@ -3,14 +3,6 @@
 
 ***
 
-## Notes:
-
-*
-*
-*
-
-***
-
 ## Easily decode to MIDI with TMIDIX Python module from tegridy-tools
 
 ```
