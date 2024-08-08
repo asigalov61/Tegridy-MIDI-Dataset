@@ -77,6 +77,7 @@
 
 ## [Online] [Los Angeles MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/Los-Angeles-MIDI-Dataset-Search)
 ## [Online] [Advanced MIDI Search](https://huggingface.co/spaces/asigalov61/MIDI-Search)
+## [Online] [Karaoke MIDI Search](https://huggingface.co/spaces/asigalov61/Karaoke-MIDI-Search)
 
 ***
 
@@ -97,6 +98,7 @@
 
 ## [Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
 ## [Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
+## [Online] [Chords Progressions Generator](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator)
 
 ***
 
