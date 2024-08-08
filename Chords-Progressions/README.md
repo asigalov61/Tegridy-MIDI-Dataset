@@ -20,7 +20,7 @@
 * All chords progressions have at least 5 pitches chords
 * All chords in each chord progression are between 3 and 15 pitches long
 * All pitches chords in all chords progressions are unique
-* Most of the chords progressions were sourced from Los Angeles MIDI dataset
+* Most of the chords progressions were sourced from [Los Angeles MIDI dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
 
 ***
 
