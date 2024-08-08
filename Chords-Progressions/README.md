@@ -7,7 +7,7 @@
 
 [![Open In Colab][colab-badge]][colab-notebook1]
 
-[colab-notebook1]: <https://colab.research.google.com/github/asigalov61/Tegridy-MIDI-Dataset/blob/master/Pitches_Chords_Progressions_Generator.ipynb>
+[colab-notebook1]: <https://colab.research.google.com/github/asigalov61/Tegridy-MIDI-Dataset/blob/master/Chords-Progressions/Pitches_Chords_Progressions_Generator.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ### Generate complete unique songs from pitches chords progressions
