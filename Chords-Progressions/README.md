@@ -1,4 +1,4 @@
-# Pitches Chords Progressions
+# Chords Progressions
 ## 1.25M+ pitches chords progressions for MIR and Music AI purposes
 
 ***
