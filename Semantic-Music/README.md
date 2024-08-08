@@ -3,6 +3,17 @@
 
 ***
 
+## Sematic Music Dataset Maker
+
+[![Open In Colab][colab-badge]][colab-notebook1]
+
+[colab-notebook1]: <https://colab.research.google.com/github/asigalov61/Tegridy-MIDI-Dataset/blob/master/Semantic-Music/Semantic_Music_Dataset_Maker.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+
+### Make your own semantic music dataset
+
+***
+
 ## Easily decode to MIDI with TMIDIX Python module from tegridy-tools
 
 ```
