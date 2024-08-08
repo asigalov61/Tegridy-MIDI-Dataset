@@ -14,6 +14,10 @@
 
 ***
 
+## 🤗 [Pitches Chords Progression Generator LIVE demo on Hugging Face](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator) 🤗
+
+***
+
 ## Notes:
 
 * For the sake of practicality provided pickle file contains only select chords progressions
