@@ -658,7 +658,8 @@ while len(matching_long_chords_chunks) < minimum_song_length_in_chords_chunks:
     break
 
 if len(matching_long_chords_chunks) > max_song_len:
-  print(len(matching_long_chords_chunks))
+  print('Current song length:', len(matching_long_chords_chunks), 'chords chunks')
+  print('=' * 70)
   final_song = matching_long_chords_chunks
 
 f_song = []
