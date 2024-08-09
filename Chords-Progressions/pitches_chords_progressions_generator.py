@@ -571,7 +571,7 @@ melody_MIDI_patch_number = 40 # @param {"type":"slider","min":-1,"max":127,"step
 chords_progression_MIDI_patch_number = 0 # @param {"type":"slider","min":0,"max":127,"step":1}
 base_MIDI_patch_number = 35 # @param {"type":"slider","min":-1,"max":127,"step":1}
 
-render_MIDI_to_audio = False # @param {"type":"boolean"}
+render_MIDI_to_audio = True # @param {"type":"boolean"}
 
 print('=' * 70)
 print('Chunk-by-Chunk Generator')
