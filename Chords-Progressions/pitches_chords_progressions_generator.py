@@ -207,8 +207,8 @@ print('=' * 70)
 
 minimum_song_length_in_chords = 30 # @param {"type":"slider","min":8,"max":50,"step":1}
 chords_chunks_memory_ratio = 1 # @param {"type":"slider","min":0,"max":1,"step":0.1}
-chord_time_step = 500 # @param {"type":"slider","min":100,"max":1000,"step":50}
-merge_chords_notes_max_time = 1000 # @param {"type":"slider","min":0,"max":4000,"step":100}
+chord_time_step = 4 # @param {"type":"slider","min":1,"max":20,"step":0.5}
+merge_chords_notes_max_time = 16 # @param {"type":"slider","min":2,"max":40,"step":1}
 
 #@markdown MIDI rendering options
 
@@ -367,7 +367,8 @@ detailed_stats = TMIDIX.Tegridy_ms_SONG_to_MIDI_Converter(midi_score,
                                                           output_signature = 'Pitches Chords Progression',
                                                           output_file_name = '/content/Pitches-Chords-Progression-Composition',
                                                           track_name='Project Los Angeles',
-                                                          list_of_MIDI_patches=patches
+                                                          list_of_MIDI_patches=patches,
+                                                          timings_multiplier=100
                                                           )
 
 print('=' * 70)
@@ -380,7 +381,7 @@ if render_MIDI_to_audio:
   midi_audio = midi_to_colab_audio(fname + '.mid')
   display(Audio(midi_audio, rate=16000, normalize=False))
 
-TMIDIX.plot_ms_SONG(output_score, plot_title=fname)
+TMIDIX.plot_ms_SONG(output_score, plot_title=fname, timings_multiplier=100)
 
 # @title Print song chords stats
 
@@ -420,8 +421,8 @@ for i, pc_tc in enumerate(all_song_chords):
 
 #@markdown Adjust minimum chords chunks length for different generation results
 
-minimum_chords_chunk_length = 4 # @param {"type":"slider","min":4,"max":8,"step":1}
-chords_chunks_overlap_value = 4 # @param {"type":"slider","min":2,"max":8,"step":1}
+minimum_chords_chunk_length = 5 # @param {"type":"slider","min":4,"max":8,"step":1}
+chords_chunks_overlap_value = 3 # @param {"type":"slider","min":2,"max":8,"step":1}
 
 print('=' * 70)
 print('Selecting chords chunks...')
@@ -432,7 +433,7 @@ chunk_size = minimum_chords_chunk_length
 long_chords_chunks = []
 
 for c in tqdm(good_chords_chunks):
-  if chunk_size + chords_chunks_overlap_value <= len(c):
+  if chunk_size + chords_chunks_overlap_value == len(c) or (len(c) % chunk_size == 0 and len(c) > chunk_size + chords_chunks_overlap_value):
     long_chords_chunks.append(c)
 
 print('Done!')
@@ -498,7 +499,7 @@ for c in tqdm(long_chords_chunks):
       checked_chord = check_chord(chord)
       if checked_chord is not None:
         gc.append(checked_chord)
-    if len(gc) == len(c) or (len(gc) >= chunk_size + chords_chunks_overlap_value and gc == c[:len(gc)]) or (len(gc) >= chunk_size + chords_chunks_overlap_value and gc == c[len(gc):]):
+    if len(gc) == len(c) or (len(gc) >= chunk_size + chords_chunks_overlap_value and len(gc) % chunk_size == 0):
       long_chords_chunks_mult.add(tuple(gc))
 
 print('Done!')
@@ -562,8 +563,8 @@ print('=' * 70)
 
 minimum_song_length_in_chords_chunks = 50 # @param {"type":"slider","min":5,"max":100,"step":1}
 chords_chunks_memory_ratio = 1 # @param {"type":"slider","min":0,"max":1,"step":0.1}
-chord_time_step = 500 # @param {"type":"slider","min":100,"max":1000,"step":50}
-merge_chords_notes_max_time = 1000 # @param {"type":"slider","min":0,"max":4000,"step":100}
+chord_time_step = 4 # @param {"type":"slider","min":1,"max":20,"step":0.5}
+merge_chords_notes_max_time = 16 # @param {"type":"slider","min":2,"max":40,"step":1}
 
 #@markdown MIDI rendering options
 
@@ -721,7 +722,8 @@ detailed_stats = TMIDIX.Tegridy_ms_SONG_to_MIDI_Converter(midi_score,
                                                           output_signature = 'Pitches Chords Progression',
                                                           output_file_name = '/content/Pitches-Chords-Progression-Composition',
                                                           track_name='Project Los Angeles',
-                                                          list_of_MIDI_patches=patches
+                                                          list_of_MIDI_patches=patches,
+                                                          timings_multiplier=100
                                                           )
 
 print('=' * 70)
@@ -734,7 +736,7 @@ if render_MIDI_to_audio:
   midi_audio = midi_to_colab_audio(fname + '.mid')
   display(Audio(midi_audio, rate=16000, normalize=False))
 
-TMIDIX.plot_ms_SONG(output_score, plot_title=fname)
+TMIDIX.plot_ms_SONG(output_score, plot_title=fname, timings_multiplier=100)
 
 # @title Print song chords stats
 
