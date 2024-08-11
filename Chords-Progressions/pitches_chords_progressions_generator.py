@@ -463,14 +463,17 @@ def check_chord(chord):
     tones_chord.remove(11)
 
   for t in tones_chord:
+
     if t+1 in tones_chord:
       tones_chord.remove(t+1)
+
     if t-1 in tones_chord:
       tones_chord.remove(t-1)
 
   new_chord = tuple()
 
   for p in chord:
+
     if p % 12 in tones_chord:
       new_chord += tuple([p])
 
@@ -493,13 +496,22 @@ long_chords_chunks_mult = set()
 for c in tqdm(long_chords_chunks):
 
   for tv in range(-chords_chunks_multiplicatrion_factor, chords_chunks_multiplicatrion_factor):
+
     gc = []
+
     for cc in c:
+
       chord = [max(1, min(127, p+tv)) for p in cc]
       checked_chord = check_chord(chord)
+
       if checked_chord is not None:
         gc.append(checked_chord)
-    if len(gc) == len(c) or (len(gc) >= chunk_size + chords_chunks_overlap_value and len(gc) % chunk_size == 0):
+
+      else:
+        gc = []
+        break
+
+    if len(gc) == len(c):
       long_chords_chunks_mult.add(tuple(gc))
 
 print('Done!')
