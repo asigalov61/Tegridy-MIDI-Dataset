@@ -421,8 +421,8 @@ for i, pc_tc in enumerate(all_song_chords):
 
 #@markdown Adjust minimum chords chunks length for different generation results
 
-minimum_chords_chunk_length = 5 # @param {"type":"slider","min":4,"max":8,"step":1}
-chords_chunks_overlap_value = 3 # @param {"type":"slider","min":2,"max":8,"step":1}
+minimum_chords_chunk_length = 6 # @param {"type":"slider","min":4,"max":8,"step":1}
+chords_chunks_overlap_value = 4 # @param {"type":"slider","min":2,"max":8,"step":1}
 
 print('=' * 70)
 print('Selecting chords chunks...')
@@ -433,12 +433,12 @@ chunk_size = minimum_chords_chunk_length
 long_chords_chunks = []
 
 for c in tqdm(good_chords_chunks):
-  if chunk_size + chords_chunks_overlap_value == len(c) or (len(c) % chunk_size == 0 and len(c) > chunk_size + chords_chunks_overlap_value):
+  if len(c) >= chunk_size + chords_chunks_overlap_value:
     long_chords_chunks.append(c)
 
 print('Done!')
 print('=' * 70)
-print('Selected chords chunks of minimum length:', minimum_chords_chunk_length+chords_chunks_overlap_value)
+print('Selected chords chunks of minimum length:', minimum_chords_chunk_length + chords_chunks_overlap_value)
 print('=' * 70)
 print('Total number of selected chord chunks:', len(long_chords_chunks))
 print('=' * 70)
@@ -457,18 +457,29 @@ def check_chord(chord):
 
   tones_chord = sorted(set([p % 12 for p in chord]))
 
-  new_tones_chord = []
+  bkp = list(zip(TMIDIX.BLACK_NOTES[:-1], TMIDIX.BLACK_NOTES[1:]))
+  wkp = list(zip(TMIDIX.WHITE_NOTES[:-1], TMIDIX.WHITE_NOTES[1:]))
 
-  if 0 in tones_chord and 11 in tones_chord:
-    tones_chord.remove(11)
+  if len(tones_chord) > 1:
 
-  for t in tones_chord:
+    if 0 in tones_chord and 11 in tones_chord:
+      tones_chord.remove(11)
 
-    if t+1 in tones_chord:
-      tones_chord.remove(t+1)
+    for t in tones_chord:
 
-    if t-1 in tones_chord:
-      tones_chord.remove(t-1)
+      if t+1 in tones_chord:
+        tones_chord.remove(t+1)
+
+      if t-1 in tones_chord:
+        tones_chord.remove(t-1)
+
+      for p in bkp:
+        if set(tones_chord).issuperset(p):
+          tones_chord.remove(p[1])
+
+      for p in wkp:
+        if set(tones_chord).issuperset(p):
+          tones_chord.remove(p[1])
 
   new_chord = tuple()
 
