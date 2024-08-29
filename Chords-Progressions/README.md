@@ -18,6 +18,10 @@
 
 ***
 
+## 🎧 Listen to [Pitches Chords Progression Generator Samples on SoundCloud](https://soundcloud.com/aleksandr-sigalov-61/sets/pitches-chords-progressions) 🎧
+
+***
+
 ## Notes:
 
 * For the sake of practicality provided pickle file contains only select chords progressions
