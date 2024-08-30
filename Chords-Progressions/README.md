@@ -36,14 +36,14 @@
 
 ***
 
-### This archive contains a pickle file with 45778 select songs from Los Angeles MIDI Dataset
-### Each song score contains 128-256 chords progresion and a drum track
-### Each song score is in the format (delta start time, tones chord, drums pitches)
-### This is useful for chords mixing, chords analysis and for other purposes
+* This archive contains a pickle file with 45778 select songs from Los Angeles MIDI Dataset
+* Each song score contains 128-256 chords progresion and a drum track
+* Each song score is in the format (delta start time, tones chord, drums pitches)
+* This is useful for chords mixing, chords analysis and for other purposes
 
 ***
 
-## You can easily decode each score with TMIDIX module from tegridy-tools as follows:
+### You can easily decode each score with TMIDIX module from tegridy-tools as follows:
 
 ```
 import TMIDIX
