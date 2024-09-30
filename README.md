@@ -39,7 +39,9 @@
 ## [MidiCaps Dataset](https://github.com/AMAAI-Lab/MidiCaps)
 ## [mono-midi-transposition Dataset](https://github.com/sebasgverde/mono-midi-transposition-dataset)
 ## [ComMU Dataset](https://github.com/POZAlabs/ComMU-code)
-## [MID-FiLD](https://github.com/POZAlabs/MID-FiLD_code)
+## [MID-FiLD Dataset](https://github.com/POZAlabs/MID-FiLD_code)
+## [Melody Track Identefication Dataset](https://github.com/maxichu/MelodyTrackIdentification)
+## [SymphonyNet Dataset](https://symphonynet.github.io/)
 
 ***
 
