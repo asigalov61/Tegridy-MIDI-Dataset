@@ -42,6 +42,7 @@
 ## [MID-FiLD Dataset](https://github.com/POZAlabs/MID-FiLD_code)
 ## [Melody Track Identefication Dataset](https://github.com/maxichu/MelodyTrackIdentification)
 ## [SymphonyNet Dataset](https://symphonynet.github.io/)
+## [Casio Dataset](https://github.com/nicholasopuni31/casio-music-data)
 
 ***
 
