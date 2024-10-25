@@ -2,9 +2,11 @@
 
 ## Ultimate Multi-Instrumental MIDI Dataset for MIR and Music AI purposes
 
-## Please CC BY-NC-SA
-
 ![Tegridy-MIDI-Dataset-Logo](https://github.com/user-attachments/assets/3b57ac86-652c-4a74-8966-2d92e0fcaed0)
+
+***
+
+## Please CC BY-NC-SA
 
 ***
 
