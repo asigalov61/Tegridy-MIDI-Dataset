@@ -47,6 +47,8 @@
 ## [Melody Track Identefication Dataset](https://github.com/maxichu/MelodyTrackIdentification)
 ## [SymphonyNet Dataset](https://symphonynet.github.io/)
 ## [Casio Dataset](https://github.com/nicholasopuni31/casio-music-data)
+## [popular hook Dataset](https://huggingface.co/datasets/NEXTLab-ZJU/popular-hook)
+## [Pub Piano Dataset](https://huggingface.co/datasets/asigalov61/Pub-Piano-MIDI-Dataset)
 
 ***
 
