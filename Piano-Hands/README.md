@@ -7,5 +7,9 @@
 
 ***
 
+## Check out an example implementation/model: [Piano Hands](https://github.com/asigalov61/Piano-Hands)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2024
