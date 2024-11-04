@@ -1,4 +1,4 @@
-# Piano Hands
+# Piano Hands MIDI Dataset
 ## 5388 solo Piano MIDI scores with right/left hands split
 
 ***
