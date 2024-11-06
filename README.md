@@ -49,6 +49,10 @@
 ## [Casio Dataset](https://github.com/nicholasopuni31/casio-music-data)
 ## [popular hook Dataset](https://huggingface.co/datasets/NEXTLab-ZJU/popular-hook)
 ## [Pub Piano Dataset](https://huggingface.co/datasets/asigalov61/Pub-Piano-MIDI-Dataset)
+## [ACPAS Dataset](https://github.com/cheriell/ACPAS-dataset)
+## [MuseSyn Dataset](https://zenodo.org/records/4527460)
+## [SMD Dataset](https://zenodo.org/records/13753319)
+## [EMOPIA Dataset](https://github.com/annahung31/EMOPIA)
 
 ***
 
