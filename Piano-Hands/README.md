@@ -11,7 +11,12 @@
 
 ***
 
-## Check out an example implementation/model [Piano Hands](https://github.com/asigalov61/Piano-Hands)
+## Check out example implementation in Google Colab
+
+[![Open In Colab][colab-badge]][colab-notebook1]
+
+colab-notebook1]: <https://colab.research.google.com/github/asigalov61/Tegridy-MIDI-Dataset/blob/master/Piano_Hands_Maker.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
 
