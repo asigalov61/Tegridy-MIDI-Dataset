@@ -59,5 +59,11 @@
 
 ***
 
+## 10) ASAP Aligned Scores Performances
+
+### Pitches aligned score-performance pairs from [ASAP MIDI dataset](https://github.com/fosfrancesco/asap-dataset)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2024
