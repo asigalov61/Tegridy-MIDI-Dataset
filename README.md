@@ -57,6 +57,7 @@
 ## [toast midi](https://huggingface.co/datasets/breadlicker45/toast-midi-dataset)
 ## [GAPS](https://zenodo.org/records/13962272)
 ## [BPSD](https://zenodo.org/records/12783403)
+## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
 ***
 
@@ -89,6 +90,12 @@
 # MIDI rendering
 
 ## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
+
+***
+
+# MIDI identification
+
+## [Online] [MIDI Identification](https://huggingface.co/spaces/asigalov61/MIDI-Identification)
 
 ***
 
