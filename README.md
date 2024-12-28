@@ -114,7 +114,7 @@
 
 ***
 
-# MIDI Comparison
+# MIDI comparison
 
 ## [Online] [Intelligent MIDI Comparator](https://huggingface.co/spaces/asigalov61/Intelligent-MIDI-Comparator)
 
