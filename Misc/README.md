@@ -71,5 +71,11 @@
 
 ***
 
+## 12) Beautiful Music Seeds Chords Sets and Counts
+
+### Chords sets and chords counts for all MIDIs in [Beautiful Music Seeds Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset/blob/master/Beautiful-Music-Seeds-CC-BY-NC-SA.zip)
+
+***
+
 ### Project Los Angeles
-### Tegridy Code 2024
+### Tegridy Code 2025
