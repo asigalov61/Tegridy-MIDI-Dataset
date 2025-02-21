@@ -65,5 +65,11 @@
 
 ***
 
+## 11) Monster Mono Melodies LRNO Patterns Dataset
+
+### 58236 longest repeating non-overlapping delta-pitches patterns from [Monster Mono Melodies Dataset](https://huggingface.co/datasets/projectlosangeles/Monster-MIDI-Dataset/blob/main/Monster_Mono_Melodies_MIDI_Dataset_384476_24.pickle)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2024
