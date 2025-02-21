@@ -23,7 +23,7 @@
 ## [Monster](https://github.com/asigalov61/Monster-MIDI-Dataset)
 ## [Los Angeles](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
 ## [Meta](https://github.com/jeffreyjohnens/MetaMIDIDataset)
-## [GigaMIDI](https://github.com/GigaMidiDataset/The-GigaMIDI-dataset-with-loops-and-expressive-music-performance-detection)
+## [GigaMIDI](https://github.com/Metacreation-Lab/GigaMIDI-Dataset)
 ## [LAKH](https://colinraffel.com/projects/lmd/)
 ## [ATEPP](https://github.com/BetsyTang/ATEPP)
 ## [GiantMIDI](https://github.com/bytedance/GiantMIDI-Piano)
