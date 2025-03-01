@@ -77,5 +77,11 @@
 
 ***
 
+## 13) Select popular hook melodies
+
+### All 24-64 notes melodies with artist-song-part labels from [popular hook dataset](https://huggingface.co/datasets/NEXTLab-ZJU/popular-hook)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2025
