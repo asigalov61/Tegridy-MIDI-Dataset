@@ -1,5 +1,5 @@
-# Melody Phrases
-## High-quality and precise processed monophonic melodies phrases
+# Melodies Phrases
+## High-quality precise processed monophonic melodies phrases
 
 ***
 
