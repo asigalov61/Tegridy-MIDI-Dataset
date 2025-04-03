@@ -1,4 +1,11 @@
 # Melody Phrases
+## High-quality and precise processed monophonic melodies phrases
+
+***
+
+### Source MIDI datasets:
+### [Monster](https://github.com/asigalov61/Monster-MIDI-Dataset)
+### [popular hook](https://huggingface.co/datasets/NEXTLab-ZJU/popular-hook)
 
 ***
 
