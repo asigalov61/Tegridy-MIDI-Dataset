@@ -83,5 +83,11 @@
 
 ***
 
+## 14) 306769 LRNO Melodies Delta Pitches Patterns
+
+### 306769 longest repeating non-overlapping monophonic melodies delta pitches patterns from [Monster MIDI Dataset](https://github.com/asigalov61/Monster-MIDI-Dataset)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2025
