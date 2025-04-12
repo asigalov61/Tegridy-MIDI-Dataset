@@ -11,7 +11,11 @@
 
 ***
 
-### Make sure to check out [MIDI-GAS](https://huggingface.co/datasets/asigalov61/MIDI-GAS) for sample MIDIs along with pre-processed scores and pre-computed scores embeddings. 
+### Make sure to check out [MIDI-GAS](https://huggingface.co/datasets/asigalov61/MIDI-GAS) for sample MIDIs along with pre-processed scores and pre-computed scores embeddings
+
+***
+
+### Please also check out [MIDI Genre Classifier](https://huggingface.co/spaces/asigalov61/MIDI-Genre-Classifier) LIVE demo on Huggig Face which was made from the presented data and code
 
 ***
 
