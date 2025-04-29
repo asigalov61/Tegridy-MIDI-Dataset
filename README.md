@@ -20,11 +20,12 @@
 
 # Other must-have MIDI datasets:
 
-## [Monster](https://github.com/asigalov61/Monster-MIDI-Dataset)
-## [Los Angeles](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
-## [Meta](https://github.com/jeffreyjohnens/MetaMIDIDataset)
+## [Godzilla](https://huggingface.co/datasets/projectlosangeles/Godzilla-MIDI-Dataset)
 ## [Sourdough](https://huggingface.co/datasets/BreadAi/Sourdough-midi-dataset)
+## [Monster](https://github.com/asigalov61/Monster-MIDI-Dataset)
 ## [GigaMIDI](https://github.com/Metacreation-Lab/GigaMIDI-Dataset)
+## [Meta](https://github.com/jeffreyjohnens/MetaMIDIDataset)
+## [Los Angeles](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
 ## [LAKH](https://colinraffel.com/projects/lmd/)
 ## [ATEPP](https://github.com/BetsyTang/ATEPP)
 ## [GiantMIDI](https://github.com/bytedance/GiantMIDI-Piano)
