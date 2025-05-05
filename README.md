@@ -73,7 +73,7 @@
 ## [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
 
 ## Sound Font 2 banks to render MIDIs
-## [soundfonts4u](https://sites.google.com/site/soundfonts4u/)
+## [soundfonts4u](https://huggingface.co/datasets/projectlosangeles/soundfonts4u)
 ## [Internet Archive 500 Sound Fonts Collection](https://archive.org/details/500-soundfonts-full-gm-sets)
 
 ***
