@@ -34,7 +34,7 @@
 ## [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
 ## [adl piano](https://github.com/lucasnfe/adl-piano-midi)
 ## [POP909](https://github.com/music-x-lab/POP909-Dataset)
-## [POP1k7](https://github.com/YatingMusic/compound-word-transformer)
+## [POP1k7](https://zenodo.org/records/13167761)
 ## [Nottingham](https://github.com/jukedeck/nottingham-dataset)
 ## [ASAP](https://github.com/fosfrancesco/asap-dataset)
 ## [lead sheet](https://github.com/wayne391/lead-sheet-dataset)
