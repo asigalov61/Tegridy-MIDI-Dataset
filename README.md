@@ -28,6 +28,7 @@
 ## [Los Angeles](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
 ## [LAKH](https://colinraffel.com/projects/lmd/)
 ## [Aria](https://huggingface.co/datasets/loubb/aria-midi)
+## [PDMX](https://github.com/pnlong/PDMX)
 ## [ATEPP](https://github.com/BetsyTang/ATEPP)
 ## [GiantMIDI](https://github.com/bytedance/GiantMIDI-Piano)
 ## [Rock Piano](https://github.com/asigalov61/Rock-Piano-MIDI-Dataset)
