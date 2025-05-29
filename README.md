@@ -61,6 +61,7 @@
 ## [midi classical music](https://huggingface.co/datasets/drengskapur/midi-classical-music)
 ## [GAPS](https://zenodo.org/records/13962272)
 ## [BPSD](https://zenodo.org/records/12783403)
+## [midi data](https://github.com/nightingale-ai/midi-data/)
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
 ***
