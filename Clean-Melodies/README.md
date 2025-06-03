@@ -16,11 +16,11 @@
 
 ## Easily decode to MIDI with tegridy-tools TMIDIX Python module like so:
 
-```
+```sh
 !git clone --depth 1 https://github.com/asigalov61/tegridy-tools 
 ```
 
-```
+```python
 # Import modules
 
 import TMIDIX
