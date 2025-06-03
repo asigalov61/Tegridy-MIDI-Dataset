@@ -3,10 +3,10 @@
 
 ***
 
-### Archive files descriptions:
+### Archive files descriptions
 
 * LRNO_Melodies_Phrases_CC_BY_NC_SA pickle file contains 154344 longest repeating non-overlapping monophonic melodies phrases 24-64 notes each
-* LRNO_Melodies_Phrases_Transposed_CC_BY_NC_SA pickle file contains the same meldoies phrases transposed to average C4
+* LRNO_Melodies_Phrases_Transposed_CC_BY_NC_SA pickle file contains the same melodies phrases transposed to average C4
 
 ***
 
