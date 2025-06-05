@@ -62,6 +62,18 @@
 ## [GAPS](https://zenodo.org/records/13962272)
 ## [BPSD](https://zenodo.org/records/12783403)
 ## [midi data](https://github.com/nightingale-ai/midi-data/)
+## [Personal MIDI Collection](https://github.com/Perkedel/Personal_MIDI-Collection)
+## [midi Archive](https://github.com/dirkncl/midiArchive)
+## [Moon Antonio](https://github.com/fossabot/MoonAntonio.github.io)
+## [Transform Music Project](https://github.com/lemduc/CSCI599-TransformMusicProject)
+## [midi demo data](https://github.com/ltgcgo/midi-demo-data)
+## [Music Generator](https://github.com/prnvpwr2612/Music-Generator)
+## [music generation](https://github.com/JavierPalomares90/music-generation)
+## [artificial intelligence](https://github.com/luizcartolano2/mc906-artificial-intelligence)
+## [midi archive](https://github.com/reubenson/midi-archive)
+## [WoWDiff](https://github.com/WowDevs/WoWDiff)
+## [dataprojects](https://github.com/tianhuil/dataprojects)
+## [Bread's midis](https://github.com/monsterjd95/Bread-s-midis)
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
 ***
