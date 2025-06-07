@@ -52,7 +52,7 @@
 
 ### You can easily decode each score with TMIDIX module from tegridy-tools as follows:
 
-```
+```python
 import TMIDIX
 
 times_chords_drums_songs = TMIDIX.Tegridy_Any_Pickle_File_Reader('45778_times_chords_drums_songs_128_256')
