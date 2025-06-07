@@ -3,7 +3,7 @@
 
 ***
 
-## [UPDATE 06/06/2025]
+## UPDATE 06/06/2025
 
 ### Check out [Pitches Chords Progressions Generator Python Module](https://github.com/asigalov61/tegridy-tools/tree/main/tegridy-tools/chords_progresions)
 ### The generator now can add drum track to the generated chords progressions
