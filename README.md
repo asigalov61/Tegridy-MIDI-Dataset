@@ -36,6 +36,7 @@
 ## [adl piano](https://github.com/lucasnfe/adl-piano-midi)
 ## [POP909](https://github.com/music-x-lab/POP909-Dataset)
 ## [POP1k7](https://zenodo.org/records/13167761)
+## [PiJAMA](https://zenodo.org/records/8354955)
 ## [Nottingham](https://github.com/jukedeck/nottingham-dataset)
 ## [ASAP](https://github.com/fosfrancesco/asap-dataset)
 ## [lead sheet](https://github.com/wayne391/lead-sheet-dataset)
