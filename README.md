@@ -137,6 +137,11 @@
 ## [Online] [Intelligent MIDI Comparator](https://huggingface.co/spaces/asigalov61/Intelligent-MIDI-Comparator)
 
 ***
+# MIDI repair
+
+## [Online] [MIDI Doctor](https://huggingface.co/spaces/asigalov61/MIDI-Doctor)
+
+***
 
 # Miscellaneous MIDI applications
 
