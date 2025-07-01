@@ -120,6 +120,7 @@
 # MIDI search
 
 ## [Online] [Los Angeles MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/Los-Angeles-MIDI-Dataset-Search)
+## [Online] [LAKH MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/LAKH-MIDI-Dataset-Search)
 ## [Online] [Advanced MIDI Search](https://huggingface.co/spaces/asigalov61/MIDI-Search)
 ## [Online] [Karaoke MIDI Search](https://huggingface.co/spaces/asigalov61/Karaoke-MIDI-Search)
 
@@ -127,6 +128,7 @@
 
 # MIDI classification
 
+## [Online] [MIDI Genre Classifier](https://huggingface.co/spaces/asigalov61/MIDI-Genre-Classifier)
 ## [Online] [Ultimate MIDI Classifier](https://huggingface.co/spaces/asigalov61/Ultimate-MIDI-Classifier)
 ## [Online] [Advanced MIDI Classifier](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Classifier)
 
@@ -137,17 +139,27 @@
 ## [Online] [Intelligent MIDI Comparator](https://huggingface.co/spaces/asigalov61/Intelligent-MIDI-Comparator)
 
 ***
+
 # MIDI repair
 
 ## [Online] [MIDI Doctor](https://huggingface.co/spaces/asigalov61/MIDI-Doctor)
 
 ***
 
+# MIDI Mixing
+
+## [Online] [MIDI Remixer](https://huggingface.co/spaces/asigalov61/MIDI-Remixer)
+## [Online] [MIDI Loops Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Loops-Mixer)
+## [Online] [MIDI Chords Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Chords-Mixer)
+
 # Miscellaneous MIDI applications
 
 ## [Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
 ## [Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
 ## [Online] [Chords Progressions Generator](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator)
+## [Online] [Melody Harmonizer Transformer](https://huggingface.co/spaces/asigalov61/Melody-Harmonizer-Transformer)
+## [Online] [Mono Melodies Generator](https://huggingface.co/spaces/asigalov61/Mono-Melodies-Generator)
+## [Online] [Parsons Code Melody Generator](https://huggingface.co/spaces/asigalov61/Parsons-Code-Melody-Transformer)
 
 ***
 
