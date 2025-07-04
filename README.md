@@ -75,6 +75,7 @@
 ## [WoWDiff](https://github.com/WowDevs/WoWDiff)
 ## [dataprojects](https://github.com/tianhuil/dataprojects)
 ## [Bread's midis](https://github.com/monsterjd95/Bread-s-midis)
+## [Midi Jamboree](https://github.com/JamiMyst/MidiJamboree)
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
 ***
