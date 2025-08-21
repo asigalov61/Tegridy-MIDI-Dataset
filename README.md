@@ -161,8 +161,6 @@
 
 ## [Online] [Orpheus Bridge Music Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Bridge-Music-Transformer)
 ## [Online] [Oprheus Pitches Inpainter](https://huggingface.co/spaces/projectlosangeles/Orpheus-Pitches-Inpainter)
-## [Online]
-## [Online]
 
 ***
 
@@ -176,20 +174,30 @@
 
 ***
 
+# MIDI humanization
+
+## [Online] [Orpheus Humanizing Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Humanizing-Transformer)
+
+***
+
 # Miscellaneous MIDI applications
 
+## [Online] [Oprheus Drums Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Drums-Transformer)
+## [Online] [Godzilla Piano Chords Texturing Transformer](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)
 ## [Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
 ## [Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
 ## [Online] [Chords Progressions Generator](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator)
 ## [Online] [Melody Harmonizer Transformer](https://huggingface.co/spaces/asigalov61/Melody-Harmonizer-Transformer)
 ## [Online] [Mono Melodies Generator](https://huggingface.co/spaces/asigalov61/Mono-Melodies-Generator)
 ## [Online] [Parsons Code Melody Generator](https://huggingface.co/spaces/asigalov61/Parsons-Code-Melody-Transformer)
+## [Online] [MuseCraft Chords Progressions](https://huggingface.co/spaces/projectlosangeles/MuseCraft-Chords-Progressions)
+## [Online] [MuseCraft AlgoPOP](https://huggingface.co/spaces/projectlosangeles/MuseCraft-AlgoPOP)
 
 ***
 
 # Lyrics applications
 
-## [Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)
+## [Online] ][Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)
 
 ***
 
