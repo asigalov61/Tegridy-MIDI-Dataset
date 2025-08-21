@@ -94,6 +94,12 @@
 
 ***
 
+# Audio separation
+
+## [Online] [Vocal Separation](https://huggingface.co/spaces/JacobLinCool/vocal-separation)
+
+***
+
 # Audio to MIDI transcription
 
 ## [Colab] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)
@@ -111,6 +117,7 @@
 # MIDI rendering
 
 ## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
+## [Online[ [Audio to MIDI and Advanced Renderer](https://huggingface.co/spaces/avans06/Audio-To-MIDI-And-Advanced-Renderer)
 
 ***
 
@@ -139,6 +146,7 @@
 
 # MIDI comparison
 
+## [Online] [Orpheus MIDI Comparator](https://huggingface.co/spaces/projectlosangeles/Orpheus-MIDI-Comparator)
 ## [Online] [Intelligent MIDI Comparator](https://huggingface.co/spaces/asigalov61/Intelligent-MIDI-Comparator)
 
 ***
@@ -149,11 +157,24 @@
 
 ***
 
+# MIDI bridging/infliling
+
+## [Online] [Orpheus Bridge Music Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Bridge-Music-Transformer)
+## [Online] [Oprheus Pitches Inpainter](https://huggingface.co/spaces/projectlosangeles/Orpheus-Pitches-Inpainter)
+## [Online]
+## [Online]
+
+***
+
 # MIDI Mixing
 
+## [Online] [Orpheus MIDI Loops Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-MIDI-Loops-Mixer)
+## [Online] [Orpheus MIDI Mono Melodies Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Mono-Melodies-Mixer)
 ## [Online] [MIDI Remixer](https://huggingface.co/spaces/asigalov61/MIDI-Remixer)
 ## [Online] [MIDI Loops Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Loops-Mixer)
 ## [Online] [MIDI Chords Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Chords-Mixer)
+
+***
 
 # Miscellaneous MIDI applications
 
@@ -163,6 +184,12 @@
 ## [Online] [Melody Harmonizer Transformer](https://huggingface.co/spaces/asigalov61/Melody-Harmonizer-Transformer)
 ## [Online] [Mono Melodies Generator](https://huggingface.co/spaces/asigalov61/Mono-Melodies-Generator)
 ## [Online] [Parsons Code Melody Generator](https://huggingface.co/spaces/asigalov61/Parsons-Code-Melody-Transformer)
+
+***
+
+# Lyrics applications
+
+## [Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)
 
 ***
 
