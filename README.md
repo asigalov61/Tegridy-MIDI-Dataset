@@ -197,7 +197,7 @@
 
 # Lyrics applications
 
-## [Online] ][Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)
+## [Online] [Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)
 
 ***
 
