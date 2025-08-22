@@ -100,6 +100,13 @@
 
 ***
 
+# Audio captioninig
+
+## [Online] [Sonic Verse](https://huggingface.co/spaces/amaai-lab/SonicVerse)
+## [Online] [GAMA IT](https://huggingface.co/spaces/sonalkum/GAMA-IT)
+
+***
+
 # Audio to MIDI transcription
 
 ## [Colab] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)
