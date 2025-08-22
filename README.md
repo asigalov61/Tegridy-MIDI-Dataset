@@ -18,7 +18,7 @@
 
 ***
 
-# Other must-have MIDI datasets:
+# Must-have MIDI datasets:
 
 ## [Godzilla](https://huggingface.co/datasets/projectlosangeles/Godzilla-MIDI-Dataset)
 ## [Sourdough](https://huggingface.co/datasets/BreadAi/Sourdough-midi-dataset)
