@@ -80,6 +80,16 @@
 
 ***
 
+# Must-have Audio-MIDI datasets
+
+## [MusicNet](https://doi.org/10.5281/zenodo.5120004)
+## [Maestro](https://magenta.tensorflow.org/datasets/maestro#dataset)
+## [GuitarSet](https://guitarset.weebly.com/)
+## [URMP](https://labsites.rochester.edu/air/projects/URMP.html)
+## [Slakh2100](https://doi.org/10.5281/zenodo.4599666)
+
+***
+
 # Must-have software:
 
 ## The one and only open-source MIDI editor! Its awesome :)
