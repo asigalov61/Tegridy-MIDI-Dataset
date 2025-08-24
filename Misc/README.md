@@ -89,5 +89,11 @@
 
 ***
 
+## 15) Godzilla English Karaoke Melodies
+
+### ~3k processed English karaoke melodies from [Godzilla MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Godzilla-MIDI-Dataset)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2025
