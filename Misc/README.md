@@ -95,5 +95,11 @@
 
 ***
 
+## 16) Godzilla English Karaoke Lyrics
+
+### ~32k English karaoke lyrics extracted from [Godzilla MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Godzilla-MIDI-Dataset)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2025
