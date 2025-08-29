@@ -43,6 +43,7 @@
 ## [lead sheet](https://github.com/wayne391/lead-sheet-dataset)
 ## [Yin-Yang](https://github.com/keshavbhandari/yinyang)
 ## [MTC](https://www.liederenbank.nl/mtc)
+## [Kern Scores](https://kern.humdrum.org)
 ## [EMOPIA](https://github.com/annahung31/EMOPIA)
 ## [chords melody](https://github.com/shiehn/chord-melody-dataset)
 ## [Groove](https://magenta.tensorflow.org/datasets/groove)
