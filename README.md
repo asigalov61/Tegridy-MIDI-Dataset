@@ -80,6 +80,7 @@
 ## [dataprojects](https://github.com/tianhuil/dataprojects)
 ## [Bread's midis](https://github.com/monsterjd95/Bread-s-midis)
 ## [Midi Jamboree](https://github.com/JamiMyst/MidiJamboree)
+## [Midimancy Hubworld](https://github.com/salorarainriver/Midimancy-Hubworld)
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
 ***
@@ -178,6 +179,12 @@
 
 ***
 
+# MIDI alignment
+
+## [Online] [MIDI Aligner](https://huggingface.co/spaces/asigalov61/MIDI-Aligner)
+
+***
+
 # MIDI bridging/infliling
 
 ## [Online] [Orpheus Bridge Music Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Bridge-Music-Transformer)
@@ -185,7 +192,7 @@
 
 ***
 
-# MIDI Mixing
+# MIDI mixing
 
 ## [Online] [Orpheus MIDI Loops Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-MIDI-Loops-Mixer)
 ## [Online] [Orpheus MIDI Mono Melodies Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Mono-Melodies-Mixer)
