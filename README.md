@@ -81,6 +81,7 @@
 ## [Bread's midis](https://github.com/monsterjd95/Bread-s-midis)
 ## [Midi Jamboree](https://github.com/JamiMyst/MidiJamboree)
 ## [Midimancy Hubworld](https://github.com/salorarainriver/Midimancy-Hubworld)
+## [touhou midi collection](https://github.com/AyHa1810/touhou-midi-collection)
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
 ***
@@ -92,6 +93,13 @@
 ## [GuitarSet](https://guitarset.weebly.com/)
 ## [URMP](https://labsites.rochester.edu/air/projects/URMP.html)
 ## [Slakh2100](https://doi.org/10.5281/zenodo.4599666)
+
+***
+
+# Additional Tegridy MIDI datasets on Hugging Face
+
+## [Project Los Angeles Hugging Face](https://huggingface.co/projectlosangeles/datasets)
+## [Alex Hugging Face](https://huggingface.co/asigalov61/datasets)
 
 ***
 
