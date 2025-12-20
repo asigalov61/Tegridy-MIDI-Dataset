@@ -20,6 +20,7 @@
 
 # Must-have MIDI datasets:
 
+## [Discover](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset)
 ## [Godzilla](https://huggingface.co/datasets/projectlosangeles/Godzilla-MIDI-Dataset)
 ## [Sourdough](https://huggingface.co/datasets/BreadAi/Sourdough-midi-dataset)
 ## [Monster](https://github.com/asigalov61/Monster-MIDI-Dataset)
@@ -32,6 +33,7 @@
 ## [X MIDI](https://github.com/xmusic-project/XMIDI_Dataset)
 ## [ATEPP](https://github.com/BetsyTang/ATEPP)
 ## [GiantMIDI](https://github.com/bytedance/GiantMIDI-Piano)
+## [midi classical music](https://huggingface.co/datasets/elizawhitfield/midi-classical-music)
 ## [Rock Piano](https://github.com/asigalov61/Rock-Piano-MIDI-Dataset)
 ## [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
 ## [adl piano](https://github.com/lucasnfe/adl-piano-midi)
