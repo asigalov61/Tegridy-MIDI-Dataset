@@ -157,7 +157,9 @@
 
 ## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
 ## [Online[ [Audio to MIDI and Advanced Renderer](https://huggingface.co/spaces/avans06/Audio-To-MIDI-And-Advanced-Renderer)
+## [GitHub] [fluidsynth](https://github.com/FluidSynth/fluidsynth)
 ## [GitHub] [SpessaSynth](https://github.com/spessasus/SpessaSynth)
+## [GitHub] [midirenderer](https://github.com/ryzhakar/midirenderer)
 
 ***
 
