@@ -156,9 +156,12 @@
 
 # MIDI visualization
 
+## [Software] [MIDITrail](https://github.com/wdmss/MIDITrail) 
 ## [Software] [midis2jam2](https://github.com/wyskoj/midis2jam2)
 ## [Software] [MIDIVisualizer](https://github.com/kosua20/MIDIVisualizer)
+## [Software] [MIDIFall](https://github.com/Gawehold/MIDIFall)
 ## [GitHub] [euphony](https://github.com/qiao/euphony)
+## [GitHub] [midi picasso](https://github.com/Elvenson/midi_picasso)
 
 ***
 
