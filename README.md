@@ -157,6 +157,8 @@
 # MIDI visualization
 
 ## [Software] [midis2jam2](https://github.com/wyskoj/midis2jam2)
+## [Software] [MIDIVisualizer](https://github.com/kosua20/MIDIVisualizer)
+## [GitHub] [euphony](https://github.com/qiao/euphony)
 
 ***
 
