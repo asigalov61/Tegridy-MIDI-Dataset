@@ -127,6 +127,7 @@
 
 # Audio captioninig
 
+## [Online] [Music Flamingo](https://huggingface.co/spaces/nvidia/music-flamingo)
 ## [Online] [Sonic Verse](https://huggingface.co/spaces/amaai-lab/SonicVerse)
 ## [Online] [GAMA IT](https://huggingface.co/spaces/sonalkum/GAMA-IT)
 
@@ -150,6 +151,12 @@
 
 ## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
 ## [Online[ [Audio to MIDI and Advanced Renderer](https://huggingface.co/spaces/avans06/Audio-To-MIDI-And-Advanced-Renderer)
+
+***
+
+# MIDI visualization
+
+## [Software] [midis2jam2](https://github.com/wyskoj/midis2jam2)
 
 ***
 
