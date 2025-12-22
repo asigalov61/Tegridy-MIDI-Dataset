@@ -105,6 +105,12 @@
 
 ***
 
+# Curated list of GitHub repos with MIDIs
+
+## [awesome midi repos](https://github.com/asigalov61/awesome-midi-repos)
+
+***
+
 # Must-have software:
 
 ## The one and only open-source MIDI editor! Its awesome :)
