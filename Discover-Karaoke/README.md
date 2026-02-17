@@ -1,5 +1,5 @@
 # Discover Karaoke
-## 42294 karaoke melodies extracted from [Discover MIDI](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset) dataset
+## 42294 English karaoke melodies extracted from all English karaoke MIDIs in [Discover MIDI](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset) dataset
 
 <img width="1024" height="1024" alt="Discover-Karaoke" src="https://github.com/user-attachments/assets/ba6c5226-fd4b-4977-ae8e-567a234814ac" />
 
