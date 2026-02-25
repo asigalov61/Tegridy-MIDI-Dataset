@@ -39,5 +39,30 @@ detailed_stats = TMIDIX.Tegridy_ms_SONG_to_MIDI_Converter(output_score,
 
 ***
 
+## Words Chords Dictionaries Addendum
+
+Addendum contains two dictionaries which were created from the same English Karaoke MIDIs in Discover MIDI dataset presented in Discover Karaoke archive in this dir
+
+* Words to chords mappings counters
+* Chords to words mappings counters
+
+You can use it as follows:
+
+```python
+import TMIDIX
+
+words_chords, chords_words = TMIDIX.Tegridy_Any_Pickle_File_Reader('words_chords_dicts.pickle')
+
+word = 'music'
+
+print(words_chords[word])
+
+chord = [0, 2, 5]
+
+print(chords_words[TMIDIX.ALL_CHORDS_SORTED.index(chord)])
+```
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2026
