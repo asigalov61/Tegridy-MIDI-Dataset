@@ -85,6 +85,8 @@
 ## [Midimancy Hubworld](https://github.com/salorarainriver/Midimancy-Hubworld)
 ## [Trentorial Piano](https://github.com/TrentorialPiano/TrentorialPiano)
 ## [wild west midi 2](https://github.com/ProSkittles/wild-west-midi-2)
+## [classical music midi](https://huggingface.co/datasets/xenon111/classical-music-midi)
+## [lyrics_midi_pair](https://huggingface.co/datasets/NjNBrl/lyrics_midi_pair)
 ## [touhou midi collection](https://github.com/AyHa1810/touhou-midi-collection)
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
