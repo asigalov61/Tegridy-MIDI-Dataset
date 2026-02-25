@@ -51,7 +51,7 @@ You can use it as follows:
 ```python
 import TMIDIX
 
-words_chords, chords_words = TMIDIX.Tegridy_Any_Pickle_File_Reader('words_chords_dicts.pickle')
+words_chords, chords_words = TMIDIX.Tegridy_Any_Pickle_File_Reader('Discover_Karaoke_Words_Chords_Dicts_Addendum_CC_BY_NC_SA.pickle')
 
 word = 'music'
 
