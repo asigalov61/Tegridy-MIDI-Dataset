@@ -83,6 +83,8 @@
 ## [Bread's midis](https://github.com/monsterjd95/Bread-s-midis)
 ## [Midi Jamboree](https://github.com/JamiMyst/MidiJamboree)
 ## [Midimancy Hubworld](https://github.com/salorarainriver/Midimancy-Hubworld)
+## [Trentorial Piano](https://github.com/TrentorialPiano/TrentorialPiano)
+## [wild west midi 2](https://github.com/ProSkittles/wild-west-midi-2)
 ## [touhou midi collection](https://github.com/AyHa1810/touhou-midi-collection)
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 
@@ -150,6 +152,12 @@
 ## [Online] [Google MT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/Hmjz100/MT3)
 
 ## [Colab] [Google Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)
+
+***
+
+# MIDI captioning
+
+## [Online] [MIDI Music Flamingo]([https://huggingface.co/spaces/nvidia/music-flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo))
 
 ***
 
@@ -241,7 +249,7 @@
 
 # Miscellaneous MIDI applications
 
-## [Online] [Oprheus Drums Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Drums-Transformer)
+## [Online] [Awesome Drums Transformer](https://huggingface.co/spaces/projectlosangeles/Awesome-Drums-Transformer)
 ## [Online] [Godzilla Piano Chords Texturing Transformer](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)
 ## [Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
 ## [Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
@@ -261,4 +269,4 @@
 ***
 
 ### Project Los Angeles
-### Tegridy Code 2025
+### Tegridy Code 2026
