@@ -235,11 +235,22 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 
 # Must-have Audio-MIDI datasets
 
+The datasets below are a crucial complement to the previous MIDI-only datasets. They provide **paired audio and MIDI data**, which is essential for tasks like automatic music transcription (AMT), source separation, and performance analysis. They range from solo piano to multi-instrument ensembles.
+
 ## [MusicNet](https://doi.org/10.5281/zenodo.5120004)
-## [Maestro](https://magenta.tensorflow.org/datasets/maestro#dataset)
+A collection of **330 freely-licensed classical music recordings** (primarily chamber music) with **over 1 million annotated labels**. It provides precise time-aligned annotations for each note, including the instrument playing it and its position in the metrical structure. Labels were acquired by aligning musical scores to recordings and verified by trained musicians, with an estimated error rate of just 4%. The dataset includes the audio (`.wav`), label files (`.csv`), and the reference MIDI files used to construct the annotations, making it a robust benchmark for supervised music transcription.
+
+## [MAESTRO](https://magenta.tensorflow.org/datasets/maestro#dataset)
+The MAESTRO (MIDI and Audio Edited for Synchronous TRacks and Organization) dataset is a premier resource consisting of about **200 hours of virtuosic piano performances** captured on Yamaha Disklaviers. This setup provides **high-precision alignment (~3 ms accuracy) between the audio waveforms and the MIDI data**, which includes key strike velocities and pedal positions. Sourced from ten years of the International Piano-e-Competition, the repertoire is mostly classical. It comes with a proposed train/validation/test split designed to ensure the same composition does not appear in multiple subsets.
+
 ## [GuitarSet](https://guitarset.weebly.com/)
+A dataset specifically designed for guitar transcription, providing **high-quality recordings alongside rich, time-aligned annotations**. It contains **360 excerpts** (approx. 30 seconds each) played by six different guitarists across five musical styles. A key feature is the use of a hexaphonic pickup, which records each string separately, enabling largely automated and precise annotation. Data for each excerpt includes the hexaphonic audio, a reference microphone recording, and a JAMS file with annotations for pitch contours per string, MIDI notes, chords, beats, and playing style.
+
 ## [URMP](https://labsites.rochester.edu/air/projects/URMP.html)
+The University of Rochester Multi-Modal Music Performance (URMP) dataset focuses on **multi-instrument classical music**. It comprises **44 simple multi-instrument pieces** assembled from coordinated but separately recorded individual tracks. For each piece, it provides the musical score (MIDI), the high-quality individual audio recordings for each instrument, and a video of the assembled performance. This unique multi-modal approach makes it highly valuable for tasks like music source separation, multi-instrument transcription, and audio-visual performance analysis.
+
 ## [Slakh2100](https://doi.org/10.5281/zenodo.4599666)
+The Synthesized Lakh (Slakh) Dataset is a large-scale dataset for **music source separation and multi-instrument automatic transcription**. It contains **2100 automatically mixed multi-track audio pieces**, synthesized from the Lakh MIDI Dataset using professional, sample-based virtual instruments. The result is **145 hours of mixture data** with perfectly aligned, ground-truth MIDI files for each individual instrument track (e.g., Piano, Guitar, Drums, Bass). All audio is provided in FLAC format, and the dataset includes detailed metadata for each source track.
 
 ***
 
