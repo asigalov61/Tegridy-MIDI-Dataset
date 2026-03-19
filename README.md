@@ -33,7 +33,6 @@ A massive, production-ready dataset containing **over 6.74 million unique, de-du
 An enormous, comprehensive MIDI dataset with **over 5.8 million unique, de-duped, and normalized MIDIs**. Each file has been converted to a proper MIDI specification and integrity-checked. It features extensive metadata, including basic features, mono-melody information, pitches-patches counts, and **text captions** describing the music in each file. Like the Discover dataset, it includes highly optimized, GPU-accelerated search and filter code, making it suitable for large-scale MIR and AI model training.
 
 ## [Sourdough](https://huggingface.co/datasets/BreadAi/Sourdough-midi-dataset)
-*(Description based on citation within the Discover/Godzilla pages)*
 A MIDI dataset from BreadAi. The dataset contains 5M+ raw deduplicated MIDIs.
 
 ## [Monster](https://github.com/asigalov61/Monster-MIDI-Dataset)
