@@ -311,7 +311,7 @@ The Synthesized Lakh (Slakh) Dataset is a large-scale dataset for **music source
 
 # MIDI captioning
 
-## [Online] [MIDI Music Flamingo]([https://huggingface.co/spaces/nvidia/music-flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo))
+## [Online] [MIDI Music Flamingo]([https://huggingface.co/spaces/nvidia/music-flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo)
 
 ***
 
