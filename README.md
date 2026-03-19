@@ -34,7 +34,7 @@ An enormous, comprehensive MIDI dataset with **over 5.8 million unique, de-duped
 
 ## [Sourdough](https://huggingface.co/datasets/BreadAi/Sourdough-midi-dataset)
 *(Description based on citation within the Discover/Godzilla pages)*
-A MIDI dataset from BreadAi. The provided link's page content was not directly accessible, but it is cited as a resource in the other Project Los Angeles datasets, indicating its relevance to the symbolic music AI community.
+A MIDI dataset from BreadAi. The dataset contains 5M+ raw deduplicated MIDIs.
 
 ## [Monster](https://github.com/asigalov61/Monster-MIDI-Dataset)
 A large-scale MIDI dataset repository hosted on GitHub by asigalov61 (the creator of the Los Angeles and Discover datasets). It is one of the foundational collections used in building the larger, more processed datasets. It contains a vast number of MIDI files gathered from various sources on the web.
