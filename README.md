@@ -281,144 +281,112 @@ The Synthesized Lakh (Slakh) Dataset is a large-scale dataset for **music source
 
 ***
 
-# Audio separation
+# Awesome Music & MIDI AI Tools
 
-## [Online] [Vocal Separation](https://huggingface.co/spaces/JacobLinCool/vocal-separation)
+A curated list of online demos, colab notebooks, and software for audio processing and MIDI manipulation.
 
-***
+## Audio separation
 
-# Audio captioninig
+- **[Online] [Vocal Separation](https://huggingface.co/spaces/JacobLinCool/vocal-separation)** - A Hugging Face Space for isolating vocals from a mixed audio track using deep learning models.
 
-## [Online] [Music Flamingo](https://huggingface.co/spaces/nvidia/music-flamingo)
-## [Online] [Sonic Verse](https://huggingface.co/spaces/amaai-lab/SonicVerse)
-## [Online] [GAMA IT](https://huggingface.co/spaces/sonalkum/GAMA-IT)
+## Audio captioning
 
-***
+- **[Online] [Music Flamingo](https://huggingface.co/spaces/nvidia/music-flamingo)** - An NVIDIA demo that generates natural language descriptions (captions) for music audio clips.
+- **[Online] [Sonic Verse](https://huggingface.co/spaces/amaai-lab/SonicVerse)** - A tool from AMAAI lab for generating textual descriptions or understanding the narrative within audio scenes.
+- **[Online] [GAMA IT](https://huggingface.co/spaces/sonalkum/GAMA-IT)** - A demo for generating captions for audio, likely focusing on general audio events and music.
 
-# Audio to MIDI transcription
+## Audio to MIDI transcription
 
-## [Colab] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)
+- **[Colab] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)** - A Google Colab notebook for transcribing solo piano performances, including pedal information, into MIDI format.
+- **[Online] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://huggingface.co/spaces/asigalov61/ByteDance-Solo-Piano-Audio-to-MIDI-Transcription)** - An online Hugging Face demo of the ByteDance model for transcribing solo piano audio to MIDI with pedal data.
+- **[Online] [YourMT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/mimbres/YourMT3)** - A demo for transcribing polyphonic, multi-instrumental music from audio to MIDI using a custom implementation of the MT3 architecture.
+- **[Online] [Google MT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/Hmjz100/MT3)** - An online implementation of Google's MT3 (Music Transcription Transformer) model for transcribing multiple instruments from audio.
+- **[Colab] [Google Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)** - The official Google Colab notebook for Magenta's MT3 model, enabling multi-instrumental and solo piano transcription.
 
-## [Online] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://huggingface.co/spaces/asigalov61/ByteDance-Solo-Piano-Audio-to-MIDI-Transcription)
+## MIDI captioning
 
-## [Online] [YourMT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/mimbres/YourMT3)
+- **[Online] [MIDI Music Flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo)** - A tool that generates textual descriptions for MIDI files, similar to image or audio captioning but for symbolic music.
 
-## [Online] [Google MT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/Hmjz100/MT3)
+## MIDI rendering
 
-## [Colab] [Google Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)
+- **[Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)** - A sophisticated online tool for rendering MIDI files to high-quality audio using soundfonts.
+- **[Online] [Audio to MIDI and Advanced Renderer](https://huggingface.co/spaces/avans06/Audio-To-MIDI-And-Advanced-Renderer)** - A combined tool that first transcribes audio to MIDI and then renders the resulting MIDI file to audio.
+- **[GitHub] [fluidsynth](https://github.com/FluidSynth/fluidsynth)** - A real-time software synthesizer that reads and renders MIDI files to audio using SoundFont samples. A foundational tool in this space.
+- **[GitHub] [SpessaSynth](https://github.com/spessasus/SpessaSynth)** - A modern, web-based MIDI synthesizer and player written in JavaScript, capable of running in browsers.
+- **[GitHub] [midirenderer](https://github.com/ryzhakar/midirenderer)** - A Python command-line tool for batch rendering MIDI files to WAV audio using FluidSynth.
 
-***
+## MIDI visualization
 
-# MIDI captioning
+- **[Software] [MIDITrail](https://github.com/wdmss/MIDITrail)** - A 3D MIDI visualization software that displays notes falling down a "trail," providing an immersive view of the music's structure.
+- **[Software] [midis2jam2](https://github.com/wyskoj/midis2jam2)** - A 3D visualizer that animates instruments and notes from a MIDI file, creating a fun and engaging music video.
+- **[Software] [MIDIVisualizer](https://github.com/kosua20/MIDIVisualizer)** - A highly customizable, real-time 3D visualization application for MIDI files, built with OpenGL.
+- **[Software] [MIDIFall](https://github.com/Gawehold/MIDIFall)** - A "falling notes" style visualizer (like in Guitar Hero) for MIDI files, built with Unity.
+- **[GitHub] [euphony](https://github.com/qiao/euphony)** - A web-based, interactive 3D MIDI visualizer that runs in the browser using Three.js.
+- **[GitHub] [midi picasso](https://github.com/Elvenson/midi_picasso)** - A creative tool that generates static visual art pieces based on the data and structure of a MIDI file.
 
-## [Online] [MIDI Music Flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo)
+## MIDI identification
 
-***
+- **[Online] [MIDI Identification](https://huggingface.co/spaces/asigalov61/MIDI-Identification)** - A tool that analyzes a MIDI file to identify its key, time signature, tempo, and other musical attributes.
 
-# MIDI rendering
+## MIDI search
 
-## [Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)
-## [Online[ [Audio to MIDI and Advanced Renderer](https://huggingface.co/spaces/avans06/Audio-To-MIDI-And-Advanced-Renderer)
-## [GitHub] [fluidsynth](https://github.com/FluidSynth/fluidsynth)
-## [GitHub] [SpessaSynth](https://github.com/spessasus/SpessaSynth)
-## [GitHub] [midirenderer](https://github.com/ryzhakar/midirenderer)
+- **[Online] [Los Angeles MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/Los-Angeles-MIDI-Dataset-Search)** - A search engine for exploring and finding MIDI files within the large Los Angeles MIDI Dataset.
+- **[Online] [LAKH MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/LAKH-MIDI-Dataset-Search)** - A search interface for the extensive Lakh MIDI Dataset, allowing users to find MIDI files by name or other criteria.
+- **[Online] [Advanced MIDI Search](https://huggingface.co/spaces/asigalov61/MIDI-Search)** - A general-purpose search tool for finding MIDI files based on musical content like chord progressions or note patterns.
+- **[Online] [Karaoke MIDI Search](https://huggingface.co/spaces/asigalov61/Karaoke-MIDI-Search)** - A specialized search engine for finding MIDI files suitable for karaoke, likely focusing on those with melody and lyric tracks.
 
-***
+## MIDI classification
 
-# MIDI visualization
+- **[Online] [MIDI Genre Classifier](https://huggingface.co/spaces/asigalov61/MIDI-Genre-Classifier)** - A tool that predicts the musical genre of a given MIDI file.
+- **[Online] [Ultimate MIDI Classifier](https://huggingface.co/spaces/asigalov61/Ultimate-MIDI-Classifier)** - An advanced classifier that likely categorizes MIDI files by multiple attributes, such as genre, mood, or instrumentation.
+- **[Online] [Advanced MIDI Classifier](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Classifier)** - Another robust tool for classifying MIDI files, potentially with more granular categories or different underlying models.
 
-## [Software] [MIDITrail](https://github.com/wdmss/MIDITrail) 
-## [Software] [midis2jam2](https://github.com/wyskoj/midis2jam2)
-## [Software] [MIDIVisualizer](https://github.com/kosua20/MIDIVisualizer)
-## [Software] [MIDIFall](https://github.com/Gawehold/MIDIFall)
-## [GitHub] [euphony](https://github.com/qiao/euphony)
-## [GitHub] [midi picasso](https://github.com/Elvenson/midi_picasso)
+## MIDI comparison
 
-***
+- **[Online] [Orpheus MIDI Comparator](https://huggingface.co/spaces/projectlosangeles/Orpheus-MIDI-Comparator)** - A tool from Project Los Angeles for analyzing and quantifying the differences between two MIDI files.
+- **[Online] [Intelligent MIDI Comparator](https://huggingface.co/spaces/asigalov61/Intelligent-MIDI-Comparator)** - A smart tool for comparing MIDI files, likely focusing on musical similarities and differences rather than just raw data.
 
-# MIDI identification
+## MIDI repair
 
-## [Online] [MIDI Identification](https://huggingface.co/spaces/asigalov61/MIDI-Identification)
+- **[Online] [MIDI Doctor](https://huggingface.co/spaces/asigalov61/MIDI-Doctor)** - An online utility that automatically detects and fixes common issues in MIDI files, such as overlapping notes, incorrect tempos, or corrupted data.
 
-***
+## MIDI alignment
 
-# MIDI search
+- **[Online] [MIDI Aligner](https://huggingface.co/spaces/asigalov61/MIDI-Aligner)** - A tool for synchronizing a MIDI file with an audio performance, correcting timing offsets to align the two.
 
-## [Online] [Los Angeles MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/Los-Angeles-MIDI-Dataset-Search)
-## [Online] [LAKH MIDI Dataset Search](https://huggingface.co/spaces/asigalov61/LAKH-MIDI-Dataset-Search)
-## [Online] [Advanced MIDI Search](https://huggingface.co/spaces/asigalov61/MIDI-Search)
-## [Online] [Karaoke MIDI Search](https://huggingface.co/spaces/asigalov61/Karaoke-MIDI-Search)
+## MIDI bridging/infilling
 
-***
+- **[Online] [Orpheus Bridge Music Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Bridge-Music-Transformer)** - An AI model that generates a musical bridge to connect two separate MIDI segments.
+- **[Online] [Orpheus Pitches Inpainter](https://huggingface.co/spaces/projectlosangeles/Orpheus-Pitches-Inpainter)** - A tool that fills in missing or "masked" notes within a MIDI sequence (inpainting), harmonically completing the musical phrase.
 
-# MIDI classification
+## MIDI mixing
 
-## [Online] [MIDI Genre Classifier](https://huggingface.co/spaces/asigalov61/MIDI-Genre-Classifier)
-## [Online] [Ultimate MIDI Classifier](https://huggingface.co/spaces/asigalov61/Ultimate-MIDI-Classifier)
-## [Online] [Advanced MIDI Classifier](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Classifier)
+- **[Online] [Orpheus MIDI Loops Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-MIDI-Loops-Mixer)** - A tool for intelligently combining and arranging different MIDI loops to create a coherent musical piece.
+- **[Online] [Orpheus MIDI Mono Melodies Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Mono-Melodies-Mixer)** - A tool designed to mix two or more monophonic (single-note) MIDI melodies into a harmonized polyphonic output.
+- **[Online] [MIDI Remixer](https://huggingface.co/spaces/asigalov61/MIDI-Remixer)** - A general-purpose remixing tool that can alter the style, instrumentation, or structure of an input MIDI file.
+- **[Online] [MIDI Loops Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Loops-Mixer)** - A tool for layering and combining multiple MIDI loops, likely with automatic key and tempo matching.
+- **[Online] [MIDI Chords Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Chords-Mixer)** - A tool for intelligently combining and reharmonizing chord progressions from different MIDI sources.
 
-***
+## MIDI humanization
 
-# MIDI comparison
+- **[Online] [Orpheus Humanizing Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Humanizing-Transformer)** - An AI model that adds expressive timing and velocity variations to a "perfect" but robotic-sounding MIDI file to make it sound more human-performed.
 
-## [Online] [Orpheus MIDI Comparator](https://huggingface.co/spaces/projectlosangeles/Orpheus-MIDI-Comparator)
-## [Online] [Intelligent MIDI Comparator](https://huggingface.co/spaces/asigalov61/Intelligent-MIDI-Comparator)
+## Miscellaneous MIDI applications
 
-***
+- **[Online] [Awesome Drums Transformer](https://huggingface.co/spaces/projectlosangeles/Awesome-Drums-Transformer)** - An AI model for generating realistic and creative drum patterns in MIDI format.
+- **[Online] [Godzilla Piano Chords Texturing Transformer](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)** - A tool that generates accompaniment patterns or "textures" (like arpeggios, broken chords) from a given piano chord progression.
+- **[Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)** - A simple tool for extracting or generating the primary melody line from a MIDI file.
+- **[Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)** - A tool for mixing two melodies, ensuring the resulting output is harmonically coherent.
+- **[Online] [Chords Progressions Generator](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator)** - An AI tool for generating novel chord progressions in various styles and keys.
+- **[Online] [Melody Harmonizer Transformer](https://huggingface.co/spaces/asigalov61/Melody-Harmonizer-Transformer)** - A transformer-based model that takes a monophonic melody and generates a harmonized chord progression to accompany it.
+- **[Online] [Mono Melodies Generator](https://huggingface.co/spaces/asigalov61/Mono-Melodies-Generator)** - An AI model for generating new monophonic (single-line) melodies from scratch or from a seed.
+- **[Online] [Parsons Code Melody Generator](https://huggingface.co/spaces/asigalov61/Parsons-Code-Melody-Transformer)** - A tool that generates melodies based on the Parsons Code, a symbolic notation for melodic contours (direction of pitch movement).
+- **[Online] [MuseCraft Chords Progressions](https://huggingface.co/spaces/projectlosangeles/MuseCraft-Chords-Progressions)** - A chord progression generator from the MuseCraft suite, focused on crafting harmonic foundations.
+- **[Online] [MuseCraft AlgoPOP](https://huggingface.co/spaces/projectlosangeles/MuseCraft-AlgoPOP)** - A generative tool from MuseCraft designed to create pop-music-inspired structures and melodies.
 
-# MIDI repair
+## Lyrics applications
 
-## [Online] [MIDI Doctor](https://huggingface.co/spaces/asigalov61/MIDI-Doctor)
-
-***
-
-# MIDI alignment
-
-## [Online] [MIDI Aligner](https://huggingface.co/spaces/asigalov61/MIDI-Aligner)
-
-***
-
-# MIDI bridging/infliling
-
-## [Online] [Orpheus Bridge Music Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Bridge-Music-Transformer)
-## [Online] [Oprheus Pitches Inpainter](https://huggingface.co/spaces/projectlosangeles/Orpheus-Pitches-Inpainter)
-
-***
-
-# MIDI mixing
-
-## [Online] [Orpheus MIDI Loops Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-MIDI-Loops-Mixer)
-## [Online] [Orpheus MIDI Mono Melodies Mixer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Mono-Melodies-Mixer)
-## [Online] [MIDI Remixer](https://huggingface.co/spaces/asigalov61/MIDI-Remixer)
-## [Online] [MIDI Loops Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Loops-Mixer)
-## [Online] [MIDI Chords Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Chords-Mixer)
-
-***
-
-# MIDI humanization
-
-## [Online] [Orpheus Humanizing Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Humanizing-Transformer)
-
-***
-
-# Miscellaneous MIDI applications
-
-## [Online] [Awesome Drums Transformer](https://huggingface.co/spaces/projectlosangeles/Awesome-Drums-Transformer)
-## [Online] [Godzilla Piano Chords Texturing Transformer](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)
-## [Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)
-## [Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)
-## [Online] [Chords Progressions Generator](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator)
-## [Online] [Melody Harmonizer Transformer](https://huggingface.co/spaces/asigalov61/Melody-Harmonizer-Transformer)
-## [Online] [Mono Melodies Generator](https://huggingface.co/spaces/asigalov61/Mono-Melodies-Generator)
-## [Online] [Parsons Code Melody Generator](https://huggingface.co/spaces/asigalov61/Parsons-Code-Melody-Transformer)
-## [Online] [MuseCraft Chords Progressions](https://huggingface.co/spaces/projectlosangeles/MuseCraft-Chords-Progressions)
-## [Online] [MuseCraft AlgoPOP](https://huggingface.co/spaces/projectlosangeles/MuseCraft-AlgoPOP)
-
-***
-
-# Lyrics applications
-
-## [Online] [Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)
+- **[Online] [Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)** - A creative tool for transforming or "morphing" input lyrics into new variations, potentially for songwriting inspiration.
 
 ***
 
