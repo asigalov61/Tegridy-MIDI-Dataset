@@ -18,6 +18,12 @@
 
 ***
 
+# Abstract
+
+> The Tegridy MIDI Dataset is a comprehensive, multi-instrumental symbolic music resource specifically designed for Music Information Retrieval (MIR) and the development of Music AI models. This repository provides a curated collection of high-quality MIDI files alongside a meticulously assembled ecosystem of external datasets, software tools, and AI applications. The core dataset offerings include original, normalized MIDI collections such as the *Tegridy MIDI Dataset*, *Tegridy Piano*, *Tegridy Piano-Violin*, and *Tegridy Children Songs*, among others, all released under the CC BY-NC-SA license. Beyond its own data, the project functions as a central hub, cataloging and linking to a vast array of essential external resources. These include massive, processed corpora like **Discover** (over 6.74 million MIDI files) and **Godzilla** (over 5.8 million MIDI files), specialized research datasets such as **MAESTRO**, **GiantMIDI**, and **Groove**, and numerous thematic collections. The repository also integrates must-have software (e.g., FluidSynth, MIDI editors), soundfonts for audio rendering, and a wide range of online and Colab-based AI tools for tasks including audio-to-MIDI transcription, MIDI captioning, generation, mixing, and humanization. By providing this unified platform—combining original data, external references, and practical tooling—the Tegridy MIDI Dataset aims to lower the barrier to entry and accelerate research in symbolic music processing, multi-instrumental music generation, and multimodal music understanding.
+
+***
+
 # Must-have MIDI datasets:
 
 This list contains a wide variety of MIDI datasets, from massive, processed corpora designed for machine learning to smaller, thematic collections for specific research or hobbies. The descriptions below are based on the content of each provided link. You'll notice a few different "types" of datasets:
