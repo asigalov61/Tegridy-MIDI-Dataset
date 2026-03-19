@@ -2,7 +2,7 @@
 
 ## Ultimate Multi-Instrumental MIDI Dataset for MIR and Music AI purposes
 
-![Tegridy-MIDI-Dataset-Logo](https://github.com/user-attachments/assets/3b57ac86-652c-4a74-8966-2d92e0fcaed0)
+<img width="1024" height="1024" alt="Tegridy-MIDI-Dataset-Artwork (6)" src="https://github.com/user-attachments/assets/3b2bbb4e-227d-4315-af35-8c7694973625" />
 
 ***
 
