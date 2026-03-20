@@ -395,5 +395,20 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ***
 
+# Citation
+
+```bibtex
+@misc{Lev2026TegridyMIDIDataset,
+  author       = {Alex Lev},
+  title        = {Tegridy MIDI Dataset: A Comprehensive Multi-Instrumental MIDI Resource for Music AI and MIR Research},
+  year         = {2026},
+  howpublished = {\url{https://github.com/asigalov61/Tegridy-MIDI-Dataset}},
+  organization = {GitHub},
+  note         = {Includes original Tegridy collections, curated links to major external datasets (Discover, Godzilla, MAESTRO, Lakh, etc.), software tools, and AI applications. Licensed under CC BY-NC-SA 4.0.}
+}
+```
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2026
