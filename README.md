@@ -372,6 +372,14 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [MIDI Loops Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Loops-Mixer)** - A tool for layering and combining multiple MIDI loops, likely with automatic key and tempo matching.
 - **[Online] [MIDI Chords Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Chords-Mixer)** - A tool for intelligently combining and reharmonizing chord progressions from different MIDI sources.
 
+## MIDI splitting
+
+- **[Online] [MIDI Splitter](https://huggingface.co/spaces/asigalov61/MIDI-Splitter)** - A tool for splitting any MIDI into individual voices parts
+
+## MIDI segmentation
+
+- **[Online] [Orpheus Music Segmentator](https://huggingface.co/spaces/projectlosangeles/Orpheus-Music-Segmentator)** - An AI model that segments any MIDI into coherent separate parts
+
 ## MIDI humanization
 
 - **[Online] [Orpheus Humanizing Transformer](https://huggingface.co/spaces/projectlosangeles/Orpheus-Humanizing-Transformer)** - An AI model that adds expressive timing and velocity variations to a "perfect" but robotic-sounding MIDI file to make it sound more human-performed.
