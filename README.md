@@ -310,11 +310,12 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ## MIDI captioning
 
-- **[Online] [MIDI Music Flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo)** - A tool that generates textual descriptions for MIDI files, similar to image or audio captioning but for symbolic music.
+- **[Online] [Ultimate MIDI Captioner](https://huggingface.co/spaces/asigalov61/Ultimate-MIDI-Captioner)** - Ultimate MIDI captioner and analyzer
+- **[Online] [MIDI Music Flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo)** - AI model that generates textual descriptions for MIDI files, similar to image or audio captioning but for symbolic music.
 
 ## MIDI rendering
 
-- **[Online] [Tegridy Code Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)** - A sophisticated online tool for rendering MIDI files to high-quality audio using soundfonts.
+- **[Online] [Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)** - A sophisticated online tool for rendering MIDI files to high-quality audio using soundfonts.
 - **[Online] [Audio to MIDI and Advanced Renderer](https://huggingface.co/spaces/avans06/Audio-To-MIDI-And-Advanced-Renderer)** - A combined tool that first transcribes audio to MIDI and then renders the resulting MIDI file to audio.
 - **[GitHub] [fluidsynth](https://github.com/FluidSynth/fluidsynth)** - A real-time software synthesizer that reads and renders MIDI files to audio using SoundFont samples. A foundational tool in this space.
 - **[GitHub] [SpessaSynth](https://github.com/spessasus/SpessaSynth)** - A modern, web-based MIDI synthesizer and player written in JavaScript, capable of running in browsers.
