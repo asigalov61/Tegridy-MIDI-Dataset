@@ -9,6 +9,7 @@
 
 ```python
 # https://github.com/asigalov61/tegridy-tools
+import random
 import TMIDIX
 
 discover_karaoke = TMIDIX.Tegridy_Any_Pickle_File_Reader('Discover_Karaoke_CC_BY_NC_SA')
