@@ -53,6 +53,8 @@ A large-scale dataset of MIDI files specifically curated for training and evalua
 ## [Los Angeles](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
 A foundational, comprehensive MIDI dataset by Alex Lev (asigalov61). It is a large, multi-instrumental dataset that serves as a basis for many subsequent projects (like Discover and Godzilla). It emphasizes normalization and is designed for a wide range of MIR and music AI tasks.
 
+## [Lyrics](https://huggingface.co/datasets/asigalov61/Lyrics-MIDI-Dataset) SOTA MIDI dataset by Alex Lev featuring ~179k original MIDI files with matched lyrics, summaries, embeddings, keywords, and chords
+
 ## [LAKH](https://colinraffel.com/projects/lmd/)
 The Lakh MIDI Dataset is a well-established and widely-used collection of **over 170,000 unique MIDI files**. It is particularly famous for its alignment with the Million Song Dataset, allowing for cross-referencing of symbolic data with audio features and metadata. It's a cornerstone dataset for many MIR and generative music projects.
 
