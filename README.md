@@ -292,6 +292,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ## Audio separation
 
+- **[Online] [Vocal Separation 2025](https://huggingface.co/spaces/ahk-d/Spleeter-HT-Demucs-Stem-Separation-2025)** - A Hugging Face Space for isolating vocals from a mixed audio track using deep learning models. This new space includes Piano separation with Spleeter 2025.
 - **[Online] [Vocal Separation](https://huggingface.co/spaces/JacobLinCool/vocal-separation)** - A Hugging Face Space for isolating vocals from a mixed audio track using deep learning models.
 
 ## Audio captioning
