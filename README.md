@@ -376,6 +376,10 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [MIDI Loops Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Loops-Mixer)** - A tool for layering and combining multiple MIDI loops, likely with automatic key and tempo matching.
 - **[Online] [MIDI Chords Mixer](https://huggingface.co/spaces/asigalov61/MIDI-Chords-Mixer)** - A tool for intelligently combining and reharmonizing chord progressions from different MIDI sources.
 
+## MIDI morphing
+
+- **[Online] [Orpheus Morpheus](https://huggingface.co/spaces/projectlosangeles/Orpheus-Morpheus)** - Morph any MIDI into a similar variation
+
 ## MIDI splitting
 
 - **[Online] [MIDI Splitter](https://huggingface.co/spaces/asigalov61/MIDI-Splitter)** - A tool for splitting any MIDI into individual voices parts
@@ -403,6 +407,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ## Lyrics applications
 
+- **[Online] [MIDI to Lyrics](https://huggingface.co/spaces/asigalov61/MIDI-to-Lyrics)** - Cross-modal AI lyrics recommendations for any MIDI
 - **[Online] [Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)** - A creative tool for transforming or "morphing" input lyrics into new variations, potentially for songwriting inspiration.
 
 ***
