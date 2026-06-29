@@ -62,6 +62,15 @@ The Lakh MIDI Dataset is a well-established and widely-used collection of **over
 ## [Aria](https://huggingface.co/datasets/loubb/aria-midi)
 A dataset of piano MIDI files intended for symbolic music modeling. As cited in the Discover/Godzilla pages, it was presented at ICLR 2025 by Louis Bradshaw and Simon Colton. It is likely a high-quality, curated collection focused on piano music for tasks like melody generation or accompaniment.
 
+## [PERiScoPe](https://huggingface.co/datasets/SyMuPe/PERiScoPe)
+A large-scale dataset of aligned piano scores and performances collected and utilized in the paper SyMuPe: Affective and Controllable Symbolic Music Performance. The dataset combines and processes open-source collections such as (n)ASAP and ATEPP with a set of curated web-collected and transcribed MIDI performances, all aligned and cleaned to produce parallel score and performance note sequences.
+
+## [PianoCoRe](https://huggingface.co/datasets/SyMuPe/PianoCoRe)
+PianoCoRe is a large-scale piano MIDI dataset that unifies and refines major open-source piano corpora. It contains 250,046 performances of 5,625 pieces written by 483 composers, totaling 21,763 hours of performed music. PianoCoRe provides the most diverse composer- and composition-annotated piano MIDI data. The metadata includes deduplication flags, MIDI quality labels and precise note-level score-performance alignments.
+
+## [PianoVAM](https://huggingface.co/datasets/PianoVAM/PianoVAM_v1)
+A multi-modal collection of piano performances designed for research in Music Information Retrieval (MIR). The dataset features synchronized recordings of various piano pieces, providing rich data across several modalities.
+
 ## [PDMX](https://github.com/pnlong/PDMX)
 A dataset that provides a large collection of **aligned polyphonic MIDI and lyrics**. This makes it particularly valuable for research in singing voice synthesis, lyrics-to-melody alignment, and other tasks that require a direct relationship between notes and text.
 
