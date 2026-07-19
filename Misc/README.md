@@ -107,5 +107,17 @@
 
 ***
 
+## 18) ASAP MIDI Dataset Scores
+
+### All scores MIDIs from [ASAP MIDI dataset](https://github.com/fosfrancesco/asap-dataset)
+
+***
+
+## 19) PianoCoRe MIDI Dataset Scores
+
+### All scores MIDIs from [PianoCoRe MIDI dataset](https://zenodo.org/records/19186016) (PianoCoRe-1.0-refined subset)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2026
