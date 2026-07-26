@@ -330,7 +330,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ## MIDI rendering
 
-- **[Online] [Advanced MIDI Renderer](https://huggingface.co/spaces/asigalov61/Advanced-MIDI-Renderer)** - A sophisticated online tool for rendering MIDI files to high-quality audio using soundfonts.
+- **[Online] [Advanced MIDI Renderer](https://huggingface.co/spaces/projectlosangeles/Advanced-MIDI-Renderer)** - A sophisticated online tool for rendering MIDI files to high-quality audio using soundfonts.
 - **[Online] [Audio to MIDI and Advanced Renderer](https://huggingface.co/spaces/avans06/Audio-To-MIDI-And-Advanced-Renderer)** - A combined tool that first transcribes audio to MIDI and then renders the resulting MIDI file to audio.
 - **[GitHub] [fluidsynth](https://github.com/FluidSynth/fluidsynth)** - A real-time software synthesizer that reads and renders MIDI files to audio using SoundFont samples. A foundational tool in this space.
 - **[GitHub] [SpessaSynth](https://github.com/spessasus/SpessaSynth)** - A modern, web-based MIDI synthesizer and player written in JavaScript, capable of running in browsers.
@@ -408,7 +408,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 - **[Online] [Awesome Drums Transformer](https://huggingface.co/spaces/projectlosangeles/Awesome-Drums-Transformer)** - An AI model for generating realistic and creative drum patterns in MIDI format.
 - **[Online] [Godzilla Piano Chords Texturing Transformer](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)** - A tool that generates accompaniment patterns or "textures" (like arpeggios, broken chords) from a given piano chord progression.
-- **[Online] [MIDI Melody](https://huggingface.co/spaces/asigalov61/MIDI-Melody)** - A simple tool for extracting or generating the primary melody line from a MIDI file.
+- **[Online] [MIDI Melody](https://huggingface.co/spaces/projectlosangeles/MIDI-Melody)** - A simple tool for extracting or generating the primary melody line from a MIDI file.
 - **[Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)** - A tool for mixing two melodies, ensuring the resulting output is harmonically coherent.
 - **[Online] [Chords Progressions Generator](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator)** - An AI tool for generating novel chord progressions in various styles and keys.
 - **[Online] [Melody Harmonizer Transformer](https://huggingface.co/spaces/asigalov61/Melody-Harmonizer-Transformer)** - A transformer-based model that takes a monophonic melody and generates a harmonized chord progression to accompany it.
