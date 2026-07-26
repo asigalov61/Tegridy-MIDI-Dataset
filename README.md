@@ -325,7 +325,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ## MIDI captioning
 
-- **[Online] [Ultimate MIDI Captioner](https://huggingface.co/spaces/asigalov61/Ultimate-MIDI-Captioner)** - Ultimate MIDI captioner and analyzer
+- **[Online] [Ultimate MIDI Captioner](https://huggingface.co/spaces/projectlosangeles/Ultimate-MIDI-Captioner)** - Ultimate MIDI captioner and analyzer
 - **[Online] [MIDI Music Flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo)** - AI model that generates textual descriptions for MIDI files, similar to image or audio captioning but for symbolic music.
 
 ## MIDI rendering
