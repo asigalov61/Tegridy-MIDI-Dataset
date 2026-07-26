@@ -315,6 +315,8 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ## Audio to MIDI transcription
 
+- **[Online] [SOTA Kyutai and Mirelo MuScriptor Multi_Instrumental Audio-to-MIDI Transcription](https://muscriptor.kyutai.org/)** - SOTA open-source multi-instrumental music transcription model developed by Kyutai and Mirelo, that has been trained on a large scale dataset of 170k songs from classical music to heavy metal.
+- **[Online] [SOTA Kyutai and Mirelo MuScriptor Multi_Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/hugging-apps/muscriptor-music-transcription)** - MuScriptor Hugging Face Space Mirror
 - **[Colab] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)** - A Google Colab notebook for transcribing solo piano performances, including pedal information, into MIDI format.
 - **[Online] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://huggingface.co/spaces/asigalov61/ByteDance-Solo-Piano-Audio-to-MIDI-Transcription)** - An online Hugging Face demo of the ByteDance model for transcribing solo piano audio to MIDI with pedal data.
 - **[Online] [YourMT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/mimbres/YourMT3)** - A demo for transcribing polyphonic, multi-instrumental music from audio to MIDI using a custom implementation of the MT3 architecture.
