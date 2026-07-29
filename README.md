@@ -77,6 +77,9 @@ A dataset that provides a large collection of **aligned polyphonic MIDI and lyri
 ## [X MIDI](https://github.com/xmusic-project/XMIDI_Dataset)
 A dataset from the XMusic project. Based on the repository name, it is likely designed for research into explainable or controllable music generation, potentially providing rich annotations or structural information alongside the MIDI data.
 
+## [Annotated MIDI Songs](https://huggingface.co/datasets/projectlosangeles/Annotated-MIDI-Songs)
+This dataset contains 26k+ MIDI songs with SongFormer‑generated structural segment annotations, paired with high‑quality MP3 renderings for each MIDI file. The collection spans all major music genres and styles, providing a unified, richly annotated symbolic+audio resource for Music AI, MIR, sequence modeling, and structure‑aware generative systems.
+
 ## [ATEPP](https://github.com/BetsyTang/ATEPP)
 The Aligned Tracks with Expressive Performance (ATEPP) dataset. It focuses on **expressive piano performance**, providing MIDI data that captures the nuances of human playing, such as timing and velocity variations, which are often lost in quantized MIDI files.
 
