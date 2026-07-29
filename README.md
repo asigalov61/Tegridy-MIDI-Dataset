@@ -329,6 +329,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 ## MIDI captioning
 
 - **[Online] [Ultimate MIDI Captioner](https://huggingface.co/spaces/projectlosangeles/Ultimate-MIDI-Captioner)** - Ultimate MIDI captioner and analyzer
+- **[Online] [MIDI MOSS Music 8B Thinking](https://huggingface.co/spaces/projectlosangeles/midi-moss-music-8b-thinking)** - SOTA open-source music understanding model (~9.1B params) from the OpenMOSS team adapted for MIDI. The model can determine MIDI mood, genre, instrumentation, chords, tempo, structure, and more using chain-of-thought musical analysis.
 - **[Online] [MIDI Music Flamingo](https://huggingface.co/spaces/projectlosangeles/MIDI-music-flamingo)** - AI model that generates textual descriptions for MIDI files, similar to image or audio captioning but for symbolic music.
 
 ## MIDI rendering
@@ -412,7 +413,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [Awesome Drums Transformer](https://huggingface.co/spaces/projectlosangeles/Awesome-Drums-Transformer)** - An AI model for generating realistic and creative drum patterns in MIDI format.
 - **[Online] [Godzilla Piano Chords Texturing Transformer](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)** - A tool that generates accompaniment patterns or "textures" (like arpeggios, broken chords) from a given piano chord progression.
 - **[Online] [MIDI Melody](https://huggingface.co/spaces/projectlosangeles/MIDI-Melody)** - A simple tool for extracting or generating the primary melody line from a MIDI file.
-- **[Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/asigalov61/Harmonic-Melody-MIDI-Mixer)** - A tool for mixing two melodies, ensuring the resulting output is harmonically coherent.
+- **[Online] [Harmonic Melody MIDI Mixer](https://huggingface.co/spaces/projectlosangeles/Harmonic-Melody-MIDI-Mixer)** - A tool for mixing two melodies, ensuring the resulting output is harmonically coherent.
 - **[Online] [Chords Progressions Generator](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Generator)** - An AI tool for generating novel chord progressions in various styles and keys.
 - **[Online] [Melody Harmonizer Transformer](https://huggingface.co/spaces/asigalov61/Melody-Harmonizer-Transformer)** - A transformer-based model that takes a monophonic melody and generates a harmonized chord progression to accompany it.
 - **[Online] [Mono Melodies Generator](https://huggingface.co/spaces/asigalov61/Mono-Melodies-Generator)** - An AI model for generating new monophonic (single-line) melodies from scratch or from a seed.
