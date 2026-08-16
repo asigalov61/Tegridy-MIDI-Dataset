@@ -80,6 +80,9 @@ A dataset from the XMusic project. Based on the repository name, it is likely de
 ## [Annotated MIDI Songs](https://huggingface.co/datasets/projectlosangeles/Annotated-MIDI-Songs)
 This dataset contains 26k+ MIDI songs with SongFormer‑generated structural segment annotations, paired with high‑quality MP3 renderings for each MIDI file. The collection spans all major music genres and styles, providing a unified, richly annotated symbolic+audio resource for Music AI, MIR, sequence modeling, and structure‑aware generative systems.
 
+## [Bad MIDI](https://huggingface.co/datasets/projectlosangeles/badmidi)
+This dataset contains 25k+ select bad MIDIs from [Discover MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset) which are very useful for MIDI classification, filtering and quality assesment.
+
 ## [ATEPP](https://github.com/BetsyTang/ATEPP)
 The Aligned Tracks with Expressive Performance (ATEPP) dataset. It focuses on **expressive piano performance**, providing MIDI data that captures the nuances of human playing, such as timing and velocity variations, which are often lost in quantized MIDI files.
 
