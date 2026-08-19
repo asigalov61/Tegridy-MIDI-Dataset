@@ -32,6 +32,9 @@ This list contains a wide variety of MIDI datasets, from massive, processed corp
 * **Specialized Research Datasets (e.g., MAESTRO, GiantMIDI, POP909):** These are smaller, high-quality datasets created for specific research tasks. They often feature precise alignments (e.g., note to performed audio), expert annotations (e.g., emotion, structure), or a focus on a particular genre or instrumentation.
 * **Thematic Collections & Archives (e.g., Touhou MIDI Collection, wild-west-midi-2, classical-music-midi):** These are generally smaller, community-driven collections focused on a specific genre, game, or artist. They are often shared on GitHub or Hugging Face and are valuable for fans, hobbyists, and specific analytical tasks.
 
+## [Aria MIDI v2](https://huggingface.co/datasets/gclef-cmu/aria-midi-v2)
+ARIA-MIDI v2 contains 10,551,873 MIDI transcriptions of solo-piano audio from YouTube, comprising approximately 600,975 hours of summed transcription duration from 8,039,732 source videos.
+
 ## [Discover](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset)
 A massive, production-ready dataset containing **over 6.74 million unique, de-duplicated, and normalized MIDI files**. It is specifically built for large-scale Music Information Retrieval (MIR), music discovery, and symbolic music AI. The dataset includes rich, precomputed metadata (features counts, genre labels, artist/title IDs) and a custom **GPU-accelerated search engine** for rapid similarity searches and filtering across the entire collection. It also comes with supplemental code for tasks like loop extraction.
 
