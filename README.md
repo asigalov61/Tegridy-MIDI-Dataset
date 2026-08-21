@@ -294,6 +294,8 @@ The Synthesized Lakh (Slakh) Dataset is a large-scale dataset for **music source
 
 ## The one and only open-source MIDI editor! Its awesome :)
 ## [midieditor](https://github.com/markusschwenk/midieditor)
+## [MidiEditor](https://github.com/Meowchestra/MidiEditor)
+## [MidiEditor AI](https://github.com/happytunesai/MidiEditor_AI)
 
 ## OmniMIDI synthesizer and SF2 driver
 ## [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
