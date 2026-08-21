@@ -446,6 +446,10 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [MIDI to Lyrics](https://huggingface.co/spaces/asigalov61/MIDI-to-Lyrics)** - Cross-modal AI lyrics recommendations for any MIDI
 - **[Online] [Lyrics Morpher](https://huggingface.co/spaces/projectlosangeles/Lyrics-Morpher)** - A creative tool for transforming or "morphing" input lyrics into new variations, potentially for songwriting inspiration.
 
+## Miscellaneous MIDI and music applications
+
+- **[Online] [Amazing Music Spaces](https://huggingface.co/collections/projectlosangeles/amazing-music-spaces)** - A large collection of very useful HQ MIDI and music Hugging Face spaces.
+
 ***
 
 # Citation
