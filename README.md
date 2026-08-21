@@ -77,6 +77,9 @@ A dataset that provides a large collection of **aligned polyphonic MIDI and lyri
 ## [X MIDI](https://github.com/xmusic-project/XMIDI_Dataset)
 A dataset from the XMusic project. Based on the repository name, it is likely designed for research into explainable or controllable music generation, potentially providing rich annotations or structural information alongside the MIDI data.
 
+## [BEAT ICML 2026 Piano Dataset](https://huggingface.co/datasets/marisa0v0/BEAT-ICML2026-piano-dataset)
+A large-scale dataset which contains 169,283 deduplicated piano scores in score-partwise MusicXML format. This is the v3 deduplicated release of the MuseScore-derived XML portion of the BEAT piano corpus. You can easily convert MusicXML scores to MIDIs with music21.
+
 ## [Annotated MIDI Songs](https://huggingface.co/datasets/projectlosangeles/Annotated-MIDI-Songs)
 This dataset contains 26k+ MIDI songs with SongFormer‑generated structural segment annotations, paired with high‑quality MP3 renderings for each MIDI file. The collection spans all major music genres and styles, providing a unified, richly annotated symbolic+audio resource for Music AI, MIR, sequence modeling, and structure‑aware generative systems.
 
@@ -244,6 +247,21 @@ A repository dedicated to piano MIDI files, possibly created or arranged by a us
 
 ## [wild west midi 2](https://github.com/ProSkittles/wild-west-midi-2)
 A GitHub repository containing a collection of MIDI files, primarily focused on **rock and alternative music** (e.g., Foo Fighters, Linkin Park, Radiohead). It appears to be a user's personal archive of song transcriptions or arrangements.
+
+## [sapiano midi](https://github.com/smagsanzhar-hue/sapiano-midi)
+A GitHub repository containing a collection of MIDI files.
+
+## [Polygondwanaland Annotated Database](https://github.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase)
+An annotated music database built around Polygondwanaland, the 2017 album by King Gizzard & The Lizard Wizard.
+
+## [MIDI files Scores CPRs](https://github.com/maxbreges/MIDI-files_Scores_CPRs)
+Another GitHub repository containing a collection of MIDI files.
+
+## [tww midis I use](https://github.com/someguy537/tww-midis-I-use)
+Midi files for TWW on roblox
+
+## []()
+
 
 ## [classical music midi](https://huggingface.co/datasets/xenon111/classical-music-midi)
 A Hugging Face dataset of classical music MIDI files. The file viewer shows a list of files with classical composer-style names (e.g., "ballade2", "beethoveenrondo"), suggesting a collection of classical piano works.
