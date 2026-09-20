@@ -271,6 +271,14 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 
 ***
 
+# Zenodo Miscellaneous MIDI Datasets
+
+## [CP-WTC](https://zenodo.org/records/21693024)
+## [PawChorale](https://zenodo.org/records/21777039)
+## [Capriccio-MIDI](https://zenodo.org/records/21670078)
+
+***
+
 # Must-have Audio-MIDI datasets
 
 The datasets below are a crucial complement to the previous MIDI-only datasets. They provide **paired audio and MIDI data**, which is essential for tasks like automatic music transcription (AMT), source separation, and performance analysis. They range from solo piano to multi-instrument ensembles.
