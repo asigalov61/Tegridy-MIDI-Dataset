@@ -352,6 +352,8 @@ A curated list of online demos, colab notebooks, and software for audio processi
 ## Audio annotation
 
 - **[Model] [ASLP-lab SongFormer](https://huggingface.co/ASLP-lab/SongFormer)** - Music segmentation/annotation model which can be used to annotate MIDIs as well by rendering them to audio first.
+- **[Model] [LinTO AI Whisper Timestamped](https://github.com/linto-ai/whisper-timestamped)** - Multilingual Automatic Speech Recognition with word-level timestamps and confidence which works well with singing voice/songs.
+
 
 ## MIDI captioning
 
