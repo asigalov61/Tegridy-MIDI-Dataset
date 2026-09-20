@@ -347,6 +347,11 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [YourMT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/mimbres/YourMT3)** - A demo for transcribing polyphonic, multi-instrumental music from audio to MIDI using a custom implementation of the MT3 architecture.
 - **[Online] [Google MT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/Hmjz100/MT3)** - An online implementation of Google's MT3 (Music Transcription Transformer) model for transcribing multiple instruments from audio.
 - **[Colab] [Google Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)** - The official Google Colab notebook for Magenta's MT3 model, enabling multi-instrumental and solo piano transcription.
+- **[Model] [ROSVOT Singing Voice to MIDI Transcription](https://github.com/RickyL-2000/ROSVOT)** - A robust automatic singing voice transcription (AST) to MIDI model that serves singing voice synthesis (SVS). 
+
+## Audio annotation
+
+- **[Model] [ASLP-lab SongFormer](https://huggingface.co/ASLP-lab/SongFormer)** - Music segmentation/annotation model which can be used to annotate MIDIs as well by rendering them to audio first.
 
 ## MIDI captioning
 
