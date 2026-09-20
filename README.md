@@ -257,6 +257,9 @@ An annotated music database built around Polygondwanaland, the 2017 album by Kin
 ## [MIDI files Scores CPRs](https://github.com/maxbreges/MIDI-files_Scores_CPRs)
 Another GitHub repository containing a collection of MIDI files.
 
+## [drywetmidi](https://github.com/melanchall/drywetmidi)
+Yet another nice GitHub repository containing a collection of MIDI files.
+
 ## [tww midis I use](https://github.com/someguy537/tww-midis-I-use)
 Midi files for TWW on roblox.
 
