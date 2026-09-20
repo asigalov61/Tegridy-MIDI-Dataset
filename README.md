@@ -271,6 +271,32 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 
 ***
 
+# Hugging Face Miscellaneous MIDI Datasets
+
+## [experiment_dataset](https://huggingface.co/datasets/rasta3050/experiment_dataset)
+## [midi](https://huggingface.co/datasets/foldl/midi)
+## [sampleflip-midi](https://huggingface.co/datasets/ronantakizawa/sampleflip-midi)
+## [ycuppe-midi](https://huggingface.co/datasets/anusfoil/ycuppe-midi)
+## [MAJEPPA-Dataset](https://huggingface.co/datasets/kkwsts/MAJEPPA-Dataset)
+## [PIAST](https://huggingface.co/datasets/Hayeonbang/PIAST)
+## [Strudel-Synth](https://huggingface.co/datasets/haiyewon/Strudel-Synth)
+## [MusiXQA](https://huggingface.co/datasets/puar-playground/MusiXQA)
+## [HF2-Hardanger-fiddle-dataset](https://huggingface.co/datasets/Bots4M/HF2-Hardanger-fiddle-dataset)
+## [BigSynthPiano](https://huggingface.co/datasets/EliMasonTech/BigSynthPiano)
+## [PercePiano](https://huggingface.co/datasets/EliMasonTech/PercePiano)
+## [SyntheticChordProgressions](https://huggingface.co/datasets/EliMasonTech/SyntheticChordProgressions)
+## [symurbench_datasets](https://huggingface.co/datasets/ai-forever/symurbench_datasets)
+## [MuSP-Bench](https://huggingface.co/datasets/bryel-labs/MuSP-Bench)
+## [FiloBass](https://huggingface.co/datasets/xavriley/FiloBass)
+## [trimodal-grandstaff](https://huggingface.co/datasets/JoaoVitorMeloMachado/trimodal-grandstaff)
+## [SynthGT](https://huggingface.co/datasets/Silasimo/SynthGT)
+## [MIMuT_Data](https://huggingface.co/datasets/J1mmymm/MIMuT_Data)
+## [HumTrans](https://huggingface.co/datasets/dadinghh2/HumTrans)
+## [for_elise](https://huggingface.co/datasets/rcwang/for_elise)
+## [harmony-whiz-synthetic-midi-corpus](https://huggingface.co/datasets/squamt/harmony-whiz-synthetic-midi-corpus)
+
+***
+
 # Zenodo Miscellaneous MIDI Datasets
 
 ## [CP-WTC](https://zenodo.org/records/21693024)
