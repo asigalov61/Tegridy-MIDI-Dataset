@@ -23,5 +23,12 @@
 
 ***
 
+### Useful GAS Metadata Hugging Face Datasets
+
+* [MusicPile](https://huggingface.co/datasets/m-a-p/MusicPile)
+* [Music Wiki](https://huggingface.co/datasets/seungheondoh/music-wiki)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2025
