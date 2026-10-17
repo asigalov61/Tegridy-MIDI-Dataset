@@ -394,6 +394,12 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Model] [LinTO AI Whisper Timestamped](https://github.com/linto-ai/whisper-timestamped)** - Multilingual Automatic Speech Recognition with word-level timestamps and confidence which works well with singing voice/songs.
 
 
+## MIDI conversion
+
+- **[Online] [DuET](https://huggingface.co/spaces/Wayne42/DuET-demo)** - Solo Piano Audio/MIDI performance to MIDI score conversion model.
+- **[Github] [DuET](https://github.com/wei-zeng98/DuET)** - Same as above but CLI/programmatic.
+- **[Github] [SyMuPe/PianoFlow](https://github.com/ilya16/SyMuPe)** - Solo Piano MIDI score to MIDI performance conversion model.
+
 ## MIDI captioning
 
 - **[Online] [Ultimate MIDI Captioner](https://huggingface.co/spaces/projectlosangeles/Ultimate-MIDI-Captioner)** - Ultimate MIDI captioner and analyzer
