@@ -333,6 +333,12 @@ The Synthesized Lakh (Slakh) Dataset is a large-scale dataset for **music source
 ## [KRAISLER](https://zenodo.org/records/21082251)
 KRAISLER (KAIST Realistic Annotated Instrument-Specific Live Ensemble Recordings) dataset is a multi-track dataset of piano and violin duet recordings for music information retrieval (MIR) research. The dataset contains 20 excerpts from Western classical pieces spanning a wide range of historical periods and genres, performed by a professional violinist and pianist. Each excerpt was recorded live in two acoustically isolated rooms, yielding clean, bleed-free piano and violin stems together with their mixture.
 
+## [RWC Music Database](https://zenodo.org/records/18656623)
+The RWC-Classic dataset is the classical music subset of the Real World Computing (RWC) Music Database — a large, copyright‑cleared corpus originally built for music information retrieval research and now available under an open license for academic use
+
+## [TRIOS](https://zenodo.org/records/6797837)
+The TRIOS dataset is a score-aligned multitrack recordings dataset which can be used for various research problems, such as Score-Informed Source Separation, Automatic Music Transcription, etc. This dataset consists of the separated tracks from five recordings of chamber music trio pieces, with their aligned MIDI scores.
+
 ## [Bach Violin](https://github.com/salu133445/bach-violin-dataset)
 The Bach Violin Dataset is a collection of high-quality public recordings of Bach's sonatas and partitas for solo violin (BWV 1001–1006). The dataset consists of 6.5 hours of professional recordings from 17 violinists recorded in various recording setups. It also provides the reference scores and estimated alignments between the recordings and scores. The dataset can be downloaded from Zenodo or GitHub.
 
@@ -395,7 +401,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [SOTA Kyutai and Mirelo MuScriptor Multi_Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/hugging-apps/muscriptor-music-transcription)** - MuScriptor Hugging Face Space Mirror
 - **[Model] [Multimodal Art Projection SheetSage2 Audio-to-MIDI Score Transcription](https://huggingface.co/m-a-p/SheetSage2)** - SheetSage2 turns music recordings into lead sheets and timed musical annotations. Transcribe a complete song, edit its ABC or MIDI, render a piano preview, or extract embeddings and token predictions for your own tools.
 - **[Online] [Multimodal Art Projection SheetSage2 Audio-to-MIDI Score Transcription](https://huggingface.co/spaces/Reubencf/Audio-to-Score)** - SheetSage2 Hugging Face Space Mirror
-- **[GitHub] [Transkun](https://github.com/Yujia-Yan/Transkun)** - Piano Transcription with Neural Semi-CRF. Of particular interest is Transkun_Aug.
+- **[GitHub] [Transkun](https://github.com/Yujia-Yan/Transkun)** - Piano Transcription with Neural Semi-CRF. Of particular interest is Transkun_Aug which outperforms ByteDance/Kong model according to benchmarks.
 - **[Colab] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://colab.research.google.com/github/asigalov61/tegridy-tools/blob/main/tegridy-tools/notebooks/ByteDance_Piano_Transcription.ipynb)** - A Google Colab notebook for transcribing solo piano performances, including pedal information, into MIDI format.
 - **[Online] [ByteDance Solo Piano with Pedals Audio-to-MIDI Transcription](https://huggingface.co/spaces/asigalov61/ByteDance-Solo-Piano-Audio-to-MIDI-Transcription)** - An online Hugging Face demo of the ByteDance model for transcribing solo piano audio to MIDI with pedal data.
 - **[Online] [YourMT3 Multi-Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/mimbres/YourMT3)** - A demo for transcribing polyphonic, multi-instrumental music from audio to MIDI using a custom implementation of the MT3 architecture.
