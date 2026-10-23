@@ -330,6 +330,9 @@ The Synthesized Lakh (Slakh) Dataset is a large-scale dataset for **music source
 ## [Internet Archive Music Dataset](https://huggingface.co/datasets/Telecom-Paris/iamd_v0)
 4.25 million captioned music segments from Creative-Commons audio on the Internet Archive — openly licensed audio paired with natural-language descriptions, at a scale hand-annotation cannot reach. Code is available [on GitHub](https://github.com/bvm810/IAMD)
 
+## [KRAISLER](https://zenodo.org/records/21082251)
+KRAISLER (KAIST Realistic Annotated Instrument-Specific Live Ensemble Recordings) dataset is a multi-track dataset of piano and violin duet recordings for music information retrieval (MIR) research. The dataset contains 20 excerpts from Western classical pieces spanning a wide range of historical periods and genres, performed by a professional violinist and pianist. Each excerpt was recorded live in two acoustically isolated rooms, yielding clean, bleed-free piano and violin stems together with their mixture.
+
 ## [Medley-solos-DB](https://zenodo.org/records/3464194)
 Medley-solos-DB is a cross-collection dataset for automatic musical instrument recognition in solo recordings. It consists of a training set of 3-second audio clips, which are extracted from the MedleyDB dataset of Bittner et al. (ISMIR 2014) as well as a test set set of 3-second clips, which are extracted from the solosDB dataset of Essid et al. (IEEE TASLP 2009). Each of these clips contains a single instrument among a taxonomy of eight: clarinet, distorted electric guitar, female singer, flute, piano, tenor saxophone, trumpet, and violin.
 
