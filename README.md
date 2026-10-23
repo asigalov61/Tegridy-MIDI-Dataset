@@ -327,6 +327,15 @@ The University of Rochester Multi-Modal Music Performance (URMP) dataset focuses
 ## [Slakh2100](https://doi.org/10.5281/zenodo.4599666)
 The Synthesized Lakh (Slakh) Dataset is a large-scale dataset for **music source separation and multi-instrument automatic transcription**. It contains **2100 automatically mixed multi-track audio pieces**, synthesized from the Lakh MIDI Dataset using professional, sample-based virtual instruments. The result is **145 hours of mixture data** with perfectly aligned, ground-truth MIDI files for each individual instrument track (e.g., Piano, Guitar, Drums, Bass). All audio is provided in FLAC format, and the dataset includes detailed metadata for each source track.
 
+## [Internet Archive Music Dataset](https://huggingface.co/datasets/Telecom-Paris/iamd_v0)
+4.25 million captioned music segments from Creative-Commons audio on the Internet Archive — openly licensed audio paired with natural-language descriptions, at a scale hand-annotation cannot reach. Code is available [on GitHub](https://github.com/bvm810/IAMD)
+
+## [Medley-solos-DB](https://zenodo.org/records/3464194)
+Medley-solos-DB is a cross-collection dataset for automatic musical instrument recognition in solo recordings. It consists of a training set of 3-second audio clips, which are extracted from the MedleyDB dataset of Bittner et al. (ISMIR 2014) as well as a test set set of 3-second clips, which are extracted from the solosDB dataset of Essid et al. (IEEE TASLP 2009). Each of these clips contains a single instrument among a taxonomy of eight: clarinet, distorted electric guitar, female singer, flute, piano, tenor saxophone, trumpet, and violin.
+
+## [Good Sounds](https://zenodo.org/records/4588740)
+The dataset contains monophonic recordings of different instruments of two kind of exercises: single notes and scales
+
 ***
 
 # Additional Tegridy MIDI datasets on Hugging Face
