@@ -24,7 +24,8 @@
 
 ***
 
-# Must-have MIDI datasets:
+<details>
+<summary><h1>Must-have MIDI dataset</h1></summary>
 
 This list contains a wide variety of MIDI datasets, from massive, processed corpora designed for machine learning to smaller, thematic collections for specific research or hobbies. The descriptions below are based on the content of each provided link. You'll notice a few different "types" of datasets:
 
@@ -272,9 +273,13 @@ A comprehensive, community-driven collection of MIDI files from the **TouHou Pro
 ## [The Nuker Series Black MIDIs](https://archive.org/details/the-nuker-series-including-tn3)
 This Internet Archive page hosts "The Nuker Series," a collection of **Black MIDI** files. Black MIDIs are characterized by an extremely high number of notes, often pushing the limits of the MIDI format.
 
+</details>
+
 ***
 
-# Hugging Face Miscellaneous MIDI Datasets
+<details>
+
+<summary><h1>Hugging Face Miscellaneous MIDI Datasets</h1></summary>
 
 ## [experiment_dataset](https://huggingface.co/datasets/rasta3050/experiment_dataset)
 ## [midi](https://huggingface.co/datasets/foldl/midi)
@@ -298,17 +303,25 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 ## [for_elise](https://huggingface.co/datasets/rcwang/for_elise)
 ## [harmony-whiz-synthetic-midi-corpus](https://huggingface.co/datasets/squamt/harmony-whiz-synthetic-midi-corpus)
 
+</details>
+
 ***
 
-# Zenodo Miscellaneous MIDI Datasets
+<details>
+
+<summary><h1>Zenodo Miscellaneous MIDI Datasets</h1></summary>
 
 ## [CP-WTC](https://zenodo.org/records/21693024)
 ## [PawChorale](https://zenodo.org/records/21777039)
 ## [Capriccio-MIDI](https://zenodo.org/records/21670078)
 
+</details>
+
 ***
 
-# Must-have Audio-MIDI datasets
+<details>
+
+<summary><h1>Must-have Audio-MIDI datasets</h1></summary>
 
 The datasets below are a crucial complement to the previous MIDI-only datasets. They provide **paired audio and MIDI data**, which is essential for tasks like automatic music transcription (AMT), source separation, and performance analysis. They range from solo piano to multi-instrument ensembles.
 
@@ -359,6 +372,8 @@ The PCD-K dataset is a dataset for piano transcription in ensemble settings and 
 
 ## [IDMT-PIANO-MM](https://zenodo.org/records/7544248)
 IDMT-PIANO-MM includes a total of 432 piano recordings (around four hours), which cover nine music pieces recorded in eight different rooms using six different recording devices. The pieces cover classical music (B. Bartók, W. A. Mozart, J. Pachelbel, and L. v. Beethoven) as well as jazz (S. Joplin as well as own compositions) and range from simple to medium difficulty. All music pieces are in the public domain.
+
+</details>
 
 ***
 
