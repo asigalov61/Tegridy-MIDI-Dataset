@@ -398,6 +398,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 - **[Online] [DuET](https://huggingface.co/spaces/Wayne42/DuET-demo)** - Solo Piano Audio/MIDI performance to MIDI score conversion model.
 - **[Github] [DuET](https://github.com/wei-zeng98/DuET)** - Same as above but CLI/programmatic.
+- **[Github] [PianistTransformer](https://github.com/yhj137/PianistTransformer)** - Brand new Solo Piano MIDI score to expressive MIDI performance conversion model.
 - **[Github] [SyMuPe/PianoFlow](https://github.com/ilya16/SyMuPe)** - Solo Piano MIDI score to MIDI performance conversion model.
 
 ## MIDI captioning
