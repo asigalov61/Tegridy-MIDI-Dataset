@@ -348,6 +348,18 @@ Medley-solos-DB is a cross-collection dataset for automatic musical instrument r
 ## [Good Sounds](https://zenodo.org/records/4588740)
 The dataset contains monophonic recordings of different instruments of two kind of exercises: single notes and scales
 
+## [EnsembleSet](https://zenodo.org/records/6519024)
+A novel multitrack dataset generated using the Spitfire BBC Symphony Orchestra library and ensemble scores from RWC Classical Music Database and Mutopia. Our data generation method introduces automated articulation mapping for different playing styles based on the input MIDI/MusicXML data.
+
+## [Bach10 Sibelius](https://zenodo.org/records/321361)
+The Bach10 Sibelius dataset is derived from the Bach10 dataset, which contains ten pieces of Bach chorales along the scores. We resynthesize the original scores at various tempos with the software Sibelius.
+
+## [PCD-K](https://zenodo.org/records/21528883)
+The PCD-K dataset is a dataset for piano transcription in ensemble settings and piano source separation. It was constructed by re-performing and re-recording the piano parts of piano concerto excerpts from the [Piano Concerto Dataset](https://audiolabs-erlangen.de/resources/MIR/PCD) using a Yamaha Disklavier, and includes aligned piano audio and accurate MIDI performance data.
+
+## [IDMT-PIANO-MM](https://zenodo.org/records/7544248)
+IDMT-PIANO-MM includes a total of 432 piano recordings (around four hours), which cover nine music pieces recorded in eight different rooms using six different recording devices. The pieces cover classical music (B. Bartók, W. A. Mozart, J. Pachelbel, and L. v. Beethoven) as well as jazz (S. Joplin as well as own compositions) and range from simple to medium difficulty. All music pieces are in the public domain.
+
 ***
 
 # Additional Tegridy MIDI datasets on Hugging Face
