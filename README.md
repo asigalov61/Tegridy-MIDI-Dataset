@@ -556,6 +556,16 @@ A curated list of online demos, colab notebooks, and software for audio processi
 
 ***
 
+## Awesome MIDI music related websites
+NOTE: Most of these require registration for limited access or a subscription for full access.
+
+- **[Musopen](https://musopen.org)** - Recordings, sheet music, and textbooks to the public for free, without copyright restrictions.
+- **[MuseScore](https://musescore.com)** - Sheet music and MIDIs.
+- **[Mirelo AI Studio](https://mirelo.ai/studio/transcriptor)** - Pro version of MuScriptor AMT which outperforms open-source versions. Turn any recording into an editable musical transcription.
+- **[MVSEP](https://mvsep.com/)** - MVSEP performs separation of audio on voice and music parts.
+
+***
+
 # Citation
 
 ```bibtex
