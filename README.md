@@ -566,6 +566,12 @@ NOTE: Most of these require registration for limited access or a subscription fo
 
 ***
 
+## Music Papers
+
+- **[Qwen Deep Research Music Papers](https://github.com/asigalov61/Qwen-Deep-Research-Music-Papers)** - Stay on top of things! Follow latest Project Los Angeles research here.
+
+***
+
 # Citation
 
 ```bibtex
