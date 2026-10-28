@@ -427,9 +427,9 @@ A large-scale, curated dataset of 27.8 hours of violin performances with automat
 
 <summary><h1>Awesome Music & MIDI AI Tools</h1></summary>
 
-A curated list of online demos, colab notebooks, and software for audio processing and MIDI manipulation.
-
 <details>
+
+A curated list of online demos, colab notebooks, and software for audio processing and MIDI manipulation.
 
 <summary><h2>Audio separation</h2></summary>
 
@@ -665,11 +665,13 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [Amazing Music Spaces](https://huggingface.co/collections/projectlosangeles/amazing-music-spaces)** - A large collection of very useful HQ MIDI and music Hugging Face spaces.
 
 </details>
+
 </details>
 
 ***
 
 <summary><h1>Awesome MIDI music related websites</h1></summary>
+
 NOTE: Most of these require registration for limited access or a subscription for full access.
 
 <details>
