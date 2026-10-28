@@ -383,20 +383,30 @@ A large-scale, curated dataset of 27.8 hours of violin performances with automat
 
 ***
 
-# Additional Tegridy MIDI datasets on Hugging Face
+<summary><h1>Additional Tegridy MIDI datasets on Hugging Face</h1></summary>
+
+<details>
 
 ## [Project Los Angeles Hugging Face](https://huggingface.co/projectlosangeles/datasets)
 ## [Alex Hugging Face](https://huggingface.co/asigalov61/datasets)
 
+</details>
+
 ***
 
-# Curated list of GitHub repos with MIDIs
+<summary><h1>Curated list of GitHub repos with MIDIs</h1></summary>
+
+<details>
 
 ## [awesome midi repos](https://github.com/asigalov61/awesome-midi-repos)
 
+</details>
+
 ***
 
-# Must-have software:
+<summary><h1>Must-have software</h1></summary>
+
+<details>
 
 ## The one and only open-source MIDI editor! Its awesome :)
 ## [midieditor](https://github.com/markusschwenk/midieditor)
@@ -410,25 +420,39 @@ A large-scale, curated dataset of 27.8 hours of violin performances with automat
 ## [soundfonts4u](https://huggingface.co/datasets/projectlosangeles/soundfonts4u)
 ## [Internet Archive 500 Sound Fonts Collection](https://archive.org/details/500-soundfonts-full-gm-sets)
 
+</details>
+
 ***
 
-# Awesome Music & MIDI AI Tools
+<summary><h1>Awesome Music & MIDI AI Tools</h1></summary>
+
+<details>
 
 A curated list of online demos, colab notebooks, and software for audio processing and MIDI manipulation.
 
-## Audio separation
+<summary><h2>Audio separation</h2></summary>
+
+<details>
 
 - **[Online] [Vocal Separation 2025](https://huggingface.co/spaces/ahk-d/Spleeter-HT-Demucs-Stem-Separation-2025)** - A Hugging Face Space for isolating vocals from a mixed audio track using deep learning models. This new space includes Piano separation with Spleeter 2025.
 - **[Online] [Vocal Separation](https://huggingface.co/spaces/JacobLinCool/vocal-separation)** - A Hugging Face Space for isolating vocals from a mixed audio track using deep learning models.
 - **[Model] [Facebook Demucs](https://github.com/facebookresearch/demucs)** - Demucs is a state-of-the-art music source separation model, currently capable of separating drums, bass, and vocals from the rest of the accompaniment.
 
-## Audio captioning
+</details>
+
+<summary><h2>Audio captioning</h2></summary>
+
+<details>
 
 - **[Online] [Music Flamingo](https://huggingface.co/spaces/nvidia/music-flamingo)** - An NVIDIA demo that generates natural language descriptions (captions) for music audio clips.
 - **[Online] [Sonic Verse](https://huggingface.co/spaces/amaai-lab/SonicVerse)** - A tool from AMAAI lab for generating textual descriptions or understanding the narrative within audio scenes.
 - **[Online] [GAMA IT](https://huggingface.co/spaces/sonalkum/GAMA-IT)** - A demo for generating captions for audio, likely focusing on general audio events and music.
 
-## Audio to MIDI transcription
+</details>
+
+<summary><h2>Audio to MIDI transcription</h2></summary>
+
+<details>
 
 - **[Online] [SOTA Kyutai and Mirelo MuScriptor Multi_Instrumental Audio-to-MIDI Transcription](https://muscriptor.kyutai.org/)** - SOTA open-source multi-instrumental music transcription model developed by Kyutai and Mirelo, that has been trained on a large scale dataset of 170k songs from classical music to heavy metal.
 - **[Online] [SOTA Kyutai and Mirelo MuScriptor Multi_Instrumental Audio-to-MIDI Transcription](https://huggingface.co/spaces/hugging-apps/muscriptor-music-transcription)** - MuScriptor Hugging Face Space Mirror
@@ -442,6 +466,8 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Colab] [Google Multi-Instrumental and Solo Piano Audio-to-MIDI Transcription](https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb)** - The official Google Colab notebook for Magenta's MT3 model, enabling multi-instrumental and solo piano transcription.
 - **[Model] [ROSVOT Singing Voice to MIDI Transcription](https://github.com/RickyL-2000/ROSVOT)** - A robust automatic singing voice transcription (AST) to MIDI model that serves singing voice synthesis (SVS). 
 - **[Colab] [tsumugi](https://github.com/anime-song/tsumugi)** - Transcribe any instrument to MIDI. One instrument-agnostic model powered by a Neural Semi-CRF.
+
+</details>
 
 ## Audio annotation
 
@@ -559,6 +585,8 @@ A curated list of online demos, colab notebooks, and software for audio processi
 ## Miscellaneous MIDI and music applications
 
 - **[Online] [Amazing Music Spaces](https://huggingface.co/collections/projectlosangeles/amazing-music-spaces)** - A large collection of very useful HQ MIDI and music Hugging Face spaces.
+
+</details>
 
 ***
 
