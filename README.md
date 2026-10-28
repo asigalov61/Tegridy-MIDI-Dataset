@@ -24,10 +24,11 @@
 
 ***
 
-<details>
 <summary><h1>Must-have MIDI dataset</h1></summary>
 
 This list contains a wide variety of MIDI datasets, from massive, processed corpora designed for machine learning to smaller, thematic collections for specific research or hobbies. The descriptions below are based on the content of each provided link. You'll notice a few different "types" of datasets:
+
+<details>
 
 * **Massive, Curated Datasets (e.g., Discover, Godzilla, Meta):** These are enormous collections (often millions of files) that have been aggregated, de-duplicated, normalized, and enriched with extensive metadata and pre-computed features. They are typically designed for large-scale Music Information Retrieval (MIR) and training symbolic music AI models, and often come with their own tooling for search and analysis.
 * **Specialized Research Datasets (e.g., MAESTRO, GiantMIDI, POP909):** These are smaller, high-quality datasets created for specific research tasks. They often feature precise alignments (e.g., note to performed audio), expert annotations (e.g., emotion, structure), or a focus on a particular genre or instrumentation.
