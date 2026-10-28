@@ -278,9 +278,9 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 
 ***
 
-<details>
-
 <summary><h1>Hugging Face Miscellaneous MIDI Datasets</h1></summary>
+
+<details>
 
 ## [experiment_dataset](https://huggingface.co/datasets/rasta3050/experiment_dataset)
 ## [midi](https://huggingface.co/datasets/foldl/midi)
@@ -308,8 +308,6 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 
 ***
 
-<details>
-
 <summary><h1>Zenodo Miscellaneous MIDI Datasets</h1></summary>
 
 ## [CP-WTC](https://zenodo.org/records/21693024)
@@ -320,11 +318,11 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 
 ***
 
-<details>
-
 <summary><h1>Must-have Audio-MIDI datasets</h1></summary>
 
 The datasets below are a crucial complement to the previous MIDI-only datasets. They provide **paired audio and MIDI data**, which is essential for tasks like automatic music transcription (AMT), source separation, and performance analysis. They range from solo piano to multi-instrument ensembles.
+
+<details>
 
 ## [MusicNet](https://doi.org/10.5281/zenodo.5120004)
 A collection of **330 freely-licensed classical music recordings** (primarily chamber music) with **over 1 million annotated labels**. It provides precise time-aligned annotations for each note, including the instrument playing it and its position in the metrical structure. Labels were acquired by aligning musical scores to recordings and verified by trained musicians, with an estimated error rate of just 4%. The dataset includes the audio (`.wav`), label files (`.csv`), and the reference MIDI files used to construct the annotations, making it a robust benchmark for supervised music transcription.
@@ -427,9 +425,9 @@ A large-scale, curated dataset of 27.8 hours of violin performances with automat
 
 <summary><h1>Awesome Music & MIDI AI Tools</h1></summary>
 
-<details>
-
 A curated list of online demos, colab notebooks, and software for audio processing and MIDI manipulation.
+
+<details>
 
 <summary><h2>Audio separation</h2></summary>
 
