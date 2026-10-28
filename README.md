@@ -310,6 +310,8 @@ This Internet Archive page hosts "The Nuker Series," a collection of **Black MID
 
 <summary><h1>Zenodo Miscellaneous MIDI Datasets</h1></summary>
 
+<details>
+
 ## [CP-WTC](https://zenodo.org/records/21693024)
 ## [PawChorale](https://zenodo.org/records/21777039)
 ## [Capriccio-MIDI](https://zenodo.org/records/21670078)
