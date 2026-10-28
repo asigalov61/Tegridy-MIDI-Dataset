@@ -88,6 +88,8 @@ This dataset contains 26k+ MIDI songs with SongFormer‑generated structural seg
 ## [Bad MIDI](https://huggingface.co/datasets/projectlosangeles/badmidi)
 This dataset contains 25k+ select bad MIDIs from [Discover MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset) which are very useful for MIDI classification, filtering and quality assesment.
 
+## [Gangqinpu](https://huggingface.co/datasets/Wayne42/gangqinpu) Fantastic aligned MIDI scores/performances dataset by [Wei Zeng](https://github.com/wei-zeng98) containing 18,786 piano score–performance pairs, covering 1,007.1 hours of source audio, with automatically transcribed performance MIDI, score MIDI, note-level alignments, and beat/downbeat annotations.
+
 ## [ATEPP](https://github.com/BetsyTang/ATEPP)
 The Aligned Tracks with Expressive Performance (ATEPP) dataset. It focuses on **expressive piano performance**, providing MIDI data that captures the nuances of human playing, such as timing and velocity variations, which are often lost in quantized MIDI files.
 
