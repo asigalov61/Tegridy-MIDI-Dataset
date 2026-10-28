@@ -664,6 +664,7 @@ A curated list of online demos, colab notebooks, and software for audio processi
 - **[Online] [Amazing Music Spaces](https://huggingface.co/collections/projectlosangeles/amazing-music-spaces)** - A large collection of very useful HQ MIDI and music Hugging Face spaces.
 
 </details>
+</details>
 
 ***
 
